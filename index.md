@@ -42,22 +42,22 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
 <p><div style="text-align: justify">
   Research papers and demos are solicited in, but not limited to, the topics listed above.
   Paper submissions must adhere to the CVPR 2023 paper submission style, format and length restrictions. 
-  See the <a href="http://cvpr2023.thecvf.com/node/33">author guidelines</a> and <a href="http://cvpr2023.thecvf.com/sites/default/files/2020-09/cvpr2021AuthorKit_2.zip">template</a> provided by the CVPR 2023 main conference.
-  See also the policy of <a href="http://iccv2021.thecvf.com/node/4#policies">Dual/Double Submissions of concurrently-reviewed conferences, such as ICCV</a>. 
+  See the <a href="https://cvpr2023.thecvf.com/Conferences/2023/AuthorGuidelines">author guidelines</a> and <a href="https://media.icml.cc/Conferences/CVPR2023/cvpr2023-author_kit-v1_1-1.zip">template</a> provided by the CVPR 2023 main conference.
+  See also the policy of <a href="https://iccv2023.thecvf.com/policies-361500-2-20-15.php">Dual/Double Submissions of concurrently-reviewed conferences, such as ICCV</a>. 
   Authors may want to limit the submission to four pages (excluding references) if that is their case.
 </div></p>
 
 <p><div style="text-align: justify">
   A double blind peer-review process of the submissions received is carried out via CMT.
-  Accepted papers will be published open access through the Computer Vision Foundation (CVF) (see <a href="https://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_EventVision">examples from CVPR Workshop 2019</a>).
+  Accepted papers will be published open access through the Computer Vision Foundation (CVF) (see <a href="https://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_EventVision">examples from CVPR Workshop 2019</a> <a href="https://openaccess.thecvf.com/CVPR2021_workshops/EventVision">and 2021</a>).
   For the accepted papers we encourage authors to write a paragraph about ethical considerations and impact of their work.
 </div></p>
 
 ### Courtesy presentations                 
 <div style="text-align: justify">
-  We also invite courtesy presentations (short talks) of related papers that are accepted at CVPR main conference or at other conferences or journals. 
-  These presentations provide visibility to your work and help to build a community around the topics of the workshop. 
-  Please contact the organizers to make arrangements to showcase your work at the workshop.
+  We also invite courtesy presentations of papers relevant to the workshop that are accepted at CVPR main conference or at other peer-reviewed conferences or journals. 
+  These presentations provide visibility to your work and help building a community around the topics of the workshop. These contributions will be checked for relevance to the workshop, but will not undergo a complete review, and will not be published in the workshop proceedings. 
+  Please contact the organizers to make arrangements to showcase your work at the workshop.  
 </div>
 
 <!--
@@ -92,7 +92,7 @@ The tentative schedule is the following:
 ## FAQs
 <ul>
   <li><b>What is an event camera?</b> Watch this <a href="https://youtu.be/LauQ6LWTkxM">video explanation</a>.</li>
-  <li><b>What are possible applications of event cameras?</b> Check the <b><a href="https://arxiv.org/abs/1904.08405">TPAMI 2020 review paper</a></b>.
+  <li><b>What are possible applications of event cameras?</b> Check the <b><a href="https://arxiv.org/abs/1904.08405">TPAMI 2022 review paper</a></b>.
   </li>
   <li><b>Where can I buy an event camera?</b> From <a href="https://github.com/uzh-rpg/event-based_vision_resources#companies_sftwr"> Inivation, Prophesee, CelePixel, Insightness</a>.</li>
   <li><b>Are there datasets and simulators that I can play with?</b> Yes, <a href="http://rpg.ifi.uzh.ch/davis_data.html">Dataset</a>. <a href="http://rpg.ifi.uzh.ch/esim.html">Simulator</a>. <a href="https://github.com/uzh-rpg/event-based_vision_resources#datasets">More</a>.</li>
