@@ -69,11 +69,14 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
 
 The tentative schedule is the following:
 
-1. Session: Neuromorphic cameras and computing.
-2. Session: Event-based sensors in computer vision.
-3. Session: Algorithms and Architectures.
-4. Session: Industrial companies and applications.
-5. Final Panel Discussion
+- Session 1: Event-based cameras and neuromorphic computing (Invited speakers)
+  - Coffee break 
+- Session 2: Contributed papers, poster session and demos
+  - Lunch break
+- Session 3: Applications, Algorithms and Architectures (Invited speakers)
+  - Coffee break 
+- Session 4: Industrial Session (Invited speakers).
+- Award Ceremony and Final Panel Discussion.
 
 ## Organizers
 
