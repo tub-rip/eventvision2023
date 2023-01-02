@@ -1,4 +1,4 @@
-<!-- ![imagen](images/CVPRW2021-banner.jpg) -->
+![imagen](images/cropped-CVPR-banner_2023.png)
 
 **June 19, 2023, Monday. 2nd day of CVPR**, Vancouver, Canada.
 Starts at **10 am [Eastern Time](https://time.is/ET)**;  4 pm [Europe Time](https://time.is/CET).  
