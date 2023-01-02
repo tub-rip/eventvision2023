@@ -1,6 +1,15 @@
-
-theme: tuur29/pages-themes-cayman
+remote_theme: tuur29/pages-themes-cayman
 title: CVPR 2023 Workshop on Event-based Vision
+color:
+  gradient_left: "#FF3333"
+  gradient_right: "#0033CC"
+  header: "#fff"
+  android_theme: "#000" # this default to gradient_color
+  link: "#1e6bb8" # this default to gradient_color
+  section_title: "#FFCC33" # this default to gradient_color
+
+syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
+
 github: 
   is_project_page: false
 
@@ -11,11 +20,3 @@ twitter:
 author:
   name:       Guillermo Gallego
   url:        http://www.guillermogallego.es
-
-colors:
-    gradient_left: "#FF3333"
-    gradient_right: "#0033CC"
-    header: "#fff"
-    android_theme: "#000" # this default to gradient_color
-    link: "#1e6bb8" # this default to gradient_color
-    section_title: "#FFCC33" # this default to gradient_color
