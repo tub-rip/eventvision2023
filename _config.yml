@@ -13,9 +13,9 @@ author:
   url:        http://www.guillermogallego.es
 
 colors:
-    gradient_left: "#155799"
-    gradient_right: "#159957"
+    gradient_left: "#FF3333"
+    gradient_right: "#0033CC"
     header: "#fff"
     android_theme: "#000" # this default to gradient_color
     link: "#1e6bb8" # this default to gradient_color
-    section_title: "#155799" # this default to gradient_color
+    section_title: "#FFCC33" # this default to gradient_color
