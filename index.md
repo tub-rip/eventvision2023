@@ -8,11 +8,11 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
 
 ## Important Dates
 
-- Paper submission deadline: **<span style="color:red">March 20, 2021</span>**. <!-- **[Submission website](https://cmt3.research.microsoft.com/EVENTVISION2023)** -->
+- <b>Paper submission deadline: **<span style="color:red">March 20, 2023</span>**. <!-- **[Submission website](https://cmt3.research.microsoft.com/EVENTVISION2023)** --></b>
 - Demo abstract submission: March 20, 2023
 - Notification to authors: April 3, 2023
 - Camera-ready paper: April 8, 2023 (firm deadline by IEEE)
-- Workshop day: **June 19, 2023. 2nd day of CVPR**. Full day workshop.
+- <b>Workshop day: **June 19, 2023. 2nd day of CVPR**. Full day workshop.</b>
 
 
 ## Objectives
