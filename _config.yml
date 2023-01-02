@@ -1,0 +1,17 @@
+
+theme: jekyll-theme-cayman
+title: CVPR 2023 Workshop on Event-based Vision
+github: 
+  is_project_page: false
+
+twitter:
+  username: guillermogb
+  
+# About/contact
+author:
+  name:       Guillermo Gallego
+  url:        http://www.guillermogallego.es
+  
+defaults:
+  - scope:
+      path: ""
