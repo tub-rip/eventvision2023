@@ -80,7 +80,7 @@ The tentative schedule is the following:
 
 ## Organizers
 
-<!-- ![organizers](images/workshop_organizers_60.jpg) -->
+![organizers](images/workshop_organizers_60.jpg)
 
 - [Guillermo Gallego](http://www.guillermogallego.es), TU Berlin, Einstein Center Digital Future, Science of Intelligence Excellence Cluster, Germany.
 - [Davide Scaramuzza](http://rpg.ifi.uzh.ch/people_scaramuzza.html), University of Zurich, Switzerland.
