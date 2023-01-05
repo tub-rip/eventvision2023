@@ -127,3 +127,7 @@ The tentative schedule is the following:
   <li><a href="http://telluride.iniforum.ch">The Telluride Neuromorphic Cognition Engineering Workshops</a>.</li>
   <li><a href="http://capocaccia.iniforum.ch">Capo Caccia Workshops toward Cognitive Neuromorphic Engineering</a>.</li>
 </ul>
+
+## Supported by 
+
+<a href="https://www.scienceofintelligence.de"><img src="images/ScioI_Logo_L.svg" width="348"></a>
