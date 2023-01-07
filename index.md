@@ -109,6 +109,7 @@ The tentative schedule is the following:
     <a href="https://youtube.com/playlist?list=PLVtZ8f-q0U5gXhjN4inwWZi66bp5vp-lN">Videos</a></li>
   <li><a href="https://www.tinyml.org/event/tinyml-neuromorphic-engineering-forum/">tinyML Neuromorphic Engineering Forum</a>.
     <a href="https://www.youtube.com/playlist?list=PLeisuBi-nfBM5HayCqF4KMBaJciV5UkLX">Videos</a></li>  
+  <li><a href="https://sites.google.com/view/telluride-2022/home">2022 Telluride Neuromorphic workshop.</a></li>
   <li><a href="https://sites.google.com/view/tellurideneuromorphic2021/home">2021 Telluride Neuromorphic workshop.</a></li>
   <li><a href="https://tub-rip.github.io/eventvision2021/slides/ICCV2021Tutorial.pdf">ICCV 2021 Tutorial. Introduction to Event Detection Cameras</a>.</li>
   <li><b><a href="https://tub-rip.github.io/eventvision2021/">CVPR 2021 Third International Workshop on Event-based Vision</a>.
