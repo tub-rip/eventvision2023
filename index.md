@@ -41,11 +41,11 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
 
 <p><div style="text-align: justify">
   Research papers and demos are solicited in, but not limited to, the topics listed above.
-  Paper submissions must adhere to the CVPR 2023 paper submission style, format and length restrictions. 
-  See the <a href="https://cvpr2023.thecvf.com/Conferences/2023/AuthorGuidelines">author guidelines</a> and <a href="https://media.icml.cc/Conferences/CVPR2023/cvpr2023-author_kit-v1_1-1.zip">template</a> provided by the CVPR 2023 main conference.
-  See also the policy of <a href="https://iccv2023.thecvf.com/policies-361500-2-20-15.php">Dual/Double Submissions of concurrently-reviewed conferences, such as ICCV</a>. 
-  Authors may want to limit the submission to four pages (excluding references) if that is their case.
 </div></p>
+
+  - <b>Paper</b> submissions must adhere to the CVPR 2023 paper submission style, format and length restrictions. 
+  See the <a href="https://cvpr2023.thecvf.com/Conferences/2023/AuthorGuidelines">author guidelines</a> and <a href="https://media.icml.cc/Conferences/CVPR2023/cvpr2023-author_kit-v1_1-1.zip">template</a> provided by the CVPR 2023 main conference. See also the policy of <a href="https://iccv2023.thecvf.com/policies-361500-2-20-15.php">Dual/Double Submissions of concurrently-reviewed conferences, such as ICCV</a>.  
+  - For <b>demo</b> abstract submission, authors are encouraged to submit an abstract of up to 2 pages using the same template as CVPR 2023 paper submissions.
 
 <p><div style="text-align: justify">
   A double blind peer-review process of the submissions received is carried out via CMT.
