@@ -8,7 +8,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
 
 ## Important Dates
 
-- <b>Paper submission deadline: ~~**<span style="color:blue">March 20, 2023</span>** (23:59h PST).  **[Submission website (CMT)](https://cmt3.research.microsoft.com/EVENTVISION2023)**</b>~~
+- Paper submission deadline: ~~March 20, 2023 (23:59h PST).  [Submission website (CMT)](https://cmt3.research.microsoft.com/EVENTVISION2023)~~
 - Demo abstract submission: ~~March 20, 2023 (23:59h PST)~~
 - Notification to authors: ~~April 3, 2023~~
 - Camera-ready paper: ~~April 14, 2023 (deadline by IEEE)~~
