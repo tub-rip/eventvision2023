@@ -86,13 +86,12 @@ hardware](papers/2023CVPRW_Low-latency_monocular_depth_estimation_using_event_ti
 ## Live Demonstrations
 1. [PINK: Polarity-based Anti-flicker for Event Cameras](papers/2023CVPRW_Live_Demonstration_PINK_Polarity-based_Anti-flicker_for_Event_Cameras.pdf), <b><a href="https://youtu.be/5UdU0PLZaf8"><span style="color:tomato;">Video</span></a></b>
 2. [Event-based Visual Microphone](papers/2023CVPRW_Live_Demonstration_Event-based_Visual_Microphone.pdf),  and [Suppl mat](papers/2023CVPRW_Live_Demonstration_Event-based_Visual_Microphone_supp.zip)
-3. [End-to-end Event-driven Sensing and Computing for Body Gesture Recognition on an Ultra Low Power Neuromorphic SoC](papers/2023CVPRW_Live_Demonstration_End-to-end_Event-driven_Sensing_and_Computing_for_Body_Gesture_Recognition.pdf). <b><a href="https://www.synsense.ai/products/speck/">SPECK</a></b>
-4. [E2P--Events to Polarization Reconstruction from PDAVIS Events](papers/2023CVPRW_Live_Demonstration_E2P_Events_to_Polarization_Reconstruction_from_PDAVIS_Events.pdf),  and [Suppl mat](papers/2023CVPRW_Live_Demonstration_E2P_Events_to_Polarization_Reconstruction_from_PDAVIS_Events_supp.zip), <b><a href="https://github.com/SensorsINI/e2p"><span style="color:tomato;">Code</span></a></b>
-5. [SCAMP-7](papers/2023CVPRW_Live_Demonstration_Scamp-7.pdf)
-6. [ANN vs SNN vs Hybrid Architectures for Event-based Real-time Gesture Recognition and Optical Flow Estimation](papers/2023CVPRW_Live_Demonstration_ANN_vs_SNN_vs_Hybrid_Architectures_for_Event-based_Real-time.pdf)
-7. [Tangentially Elongated Gaussian Belief Propagation for Event-based Incremental Optical Flow Estimation](papers/2023CVPRW_Live_Demonstration_TEGBP_for_Event-based_Incremental_Optical_Flow_Estimation.pdf), <b><a href="https://github.com/DensoITLab/tegbp"><span style="color:tomato;">Code</span></a></b>
-8. [Real-time Event-based Speed Detection using Spiking Neural Networks](papers/2023CVPRW_Live_Demonstration_Real-time_Event-based_Speed_Detection_using_Spiking_Neural_Networks.pdf)
-9. [Integrating Event-based Hand Tracking Into TouchFree Interactions](papers/2023CVPRW_Live_Demonstration_Integrating_Event-based_Hand_Tracking_Into_TouchFree_Interactions.pdf),  and [Suppl mat](papers/2023CVPRW_Live_Demonstration_Integrating_Event-based_Hand_Tracking_Into_TouchFree_Interactions_supp.zip)
+3. [E2P--Events to Polarization Reconstruction from PDAVIS Events](papers/2023CVPRW_Live_Demonstration_E2P_Events_to_Polarization_Reconstruction_from_PDAVIS_Events.pdf),  and [Suppl mat](papers/2023CVPRW_Live_Demonstration_E2P_Events_to_Polarization_Reconstruction_from_PDAVIS_Events_supp.zip), <b><a href="https://github.com/SensorsINI/e2p"><span style="color:tomato;">Code</span></a></b>
+4. [SCAMP-7](papers/2023CVPRW_Live_Demonstration_Scamp-7.pdf)
+5. [ANN vs SNN vs Hybrid Architectures for Event-based Real-time Gesture Recognition and Optical Flow Estimation](papers/2023CVPRW_Live_Demonstration_ANN_vs_SNN_vs_Hybrid_Architectures_for_Event-based_Real-time.pdf)
+6. [Tangentially Elongated Gaussian Belief Propagation for Event-based Incremental Optical Flow Estimation](papers/2023CVPRW_Live_Demonstration_TEGBP_for_Event-based_Incremental_Optical_Flow_Estimation.pdf), <b><a href="https://github.com/DensoITLab/tegbp"><span style="color:tomato;">Code</span></a></b>
+7. [Real-time Event-based Speed Detection using Spiking Neural Networks](papers/2023CVPRW_Live_Demonstration_Real-time_Event-based_Speed_Detection_using_Spiking_Neural_Networks.pdf)
+8. [Integrating Event-based Hand Tracking Into TouchFree Interactions](papers/2023CVPRW_Live_Demonstration_Integrating_Event-based_Hand_Tracking_Into_TouchFree_Interactions.pdf),  and [Suppl mat](papers/2023CVPRW_Live_Demonstration_Integrating_Event-based_Hand_Tracking_Into_TouchFree_Interactions_supp.zip)
 
 
 <!--
