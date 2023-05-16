@@ -12,7 +12,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
 - Demo abstract submission: ~~March 20, 2023 (23:59h PST)~~
 - Notification to authors: ~~April 3, 2023~~
 - Camera-ready paper: ~~April 14, 2023 (deadline by IEEE)~~
-- <span style="color:red">[Early-bird registration **April 30th** (23:59h ET)](https://cvpr2023.thecvf.com/Conferences/2023/Pricing2)</span>
+- <span style="color:red">~~[Early-bird registration **April 30th** (23:59h ET)](https://cvpr2023.thecvf.com/Conferences/2023/Pricing2)~~</span>
 - Standard registration begins May 1st.
 - <b>Workshop day: **June 19, 2023. 2nd day of CVPR**. Full day workshop.</b>
 
@@ -43,6 +43,19 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
 
 The tentative schedule is the following:
 
+Time (local) | Session
+--- | ---
+8:00 | Session 1: Event-based cameras and neuromorphic computing (Invited speakers)
+10:10 | Coffee break
+10:30 | Session 2: Poster session: contributed papers and courtesy presentations (as posters). Live Demonstrations.
+12:30 | Lunch break
+13:30 | Session 3: Applications, Algorithms and Architectures (Invited speakers)
+15:30 | Coffee break
+16:00 | Session 4: Industrial Session (Invited speakers).
+17:45 | Award Ceremony and Final Panel Discussion.
+18:00 | End
+
+<!--
 - Session 1: Event-based cameras and neuromorphic computing (Invited speakers)
   - Coffee break 
 - Session 2: Poster session: contributed papers and courtesy presentations (as posters). Live Demonstrations.
@@ -51,6 +64,7 @@ The tentative schedule is the following:
   - Coffee break 
 - Session 4: Industrial Session (Invited speakers).
 - Award Ceremony and Final Panel Discussion.
+-->
 
 <a name="accepted-papers"></a>   
 ## Accepted Papers
