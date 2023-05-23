@@ -12,7 +12,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
 - Demo abstract submission: ~~March 20, 2023 (23:59h PST)~~
 - Notification to authors: ~~April 3, 2023~~
 - Camera-ready paper: ~~April 14, 2023 (deadline by IEEE)~~
-- <span style="color:red">~~[Early-bird registration **April 30th** (23:59h ET)](https://cvpr2023.thecvf.com/Conferences/2023/Pricing2)~~</span>
+- ~~[Early-bird registration **April 30th** (23:59h ET)](https://cvpr2023.thecvf.com/Conferences/2023/Pricing2)~~
 - Standard registration begins May 1st.
 - <b>Workshop day: **June 19, 2023. 2nd day of CVPR**. Full day workshop.</b>
 
@@ -81,7 +81,7 @@ Time (local) | Session
 hardware](papers/2023CVPRW_Low-latency_monocular_depth_estimation_using_event_timing_on_neuromorphic_hardware.pdf)
 11. [Frugal event data: how small is too small? A human performance assessment with shrinking data](papers/2023CVPRW_Frugal_event_data_How_small_is_too_small.pdf)
 12. [Flow cytometry with event-based vision and spiking neuromorphic hardware](papers/2023CVPRW_Flow_cytometry_with_event-based_vision_and_spiking_neuromorphic_hardware.pdf),  <b><a href="https://github.com/stevenabreu7/dvs_flow"><span style="color:tomato;">Code</span></a></b>
-13. [How Many Events Make an Object? Improving Single-frame Object Detection on the 1 Mpx Dataset](papers/2023CVPRW_How_Many_Events_Make_an_Object.pdf),  and [Suppl mat](papers/2023CVPRW_How_Many_Events_Make_an_Object_supp.pdf)
+13. [How Many Events Make an Object? Improving Single-frame Object Detection on the 1 Mpx Dataset](papers/2023CVPRW_How_Many_Events_Make_an_Object.pdf),  and [Suppl mat](papers/2023CVPRW_How_Many_Events_Make_an_Object_supp.pdf), <b><a href="https://github.com/boschresearch/ecod"><span style="color:tomato;">Code</span></a></b>
 14. [EVREAL: Towards a Comprehensive Benchmark and Analysis Suite for Event-based Video Reconstruction](papers/2023CVPRW_EVREAL_Towards_a_Comprehensive_Benchmark_and_Analysis_Suite_for_Event-based_Video_Reconstruction.pdf),  and [Suppl mat](papers/2023CVPRW_EVREAL_Towards_a_Comprehensive_Benchmark_and_Analysis_Suite_for_Event-based_Video_Reconstruction_supp.zip), <b><a href="https://ercanburak.github.io/evreal.html"><span style="color:tomato;">Code</span></a></b>
 15. [X-maps: Direct Depth Lookup for Event-based Structured Light Systems](papers/2023CVPRW_X-Maps_Direct_Depth_Lookup_for_Event-based_Structured_Light_Systems.pdf), <b><a href="https://github.com/fraunhoferhhi/X-maps"><span style="color:tomato;">Code</span></a></b>
 16. [PEDRo: an Event-based Dataset for Person Detection in Robotics](papers/2023CVPRW_PEDRo_An_Event-based_Dataset_for_Person_Detection_in_Robotics.pdf), <b><a href="https://github.com/SSIGPRO/PEDRo-Event-Based-Dataset"><span style="color:tomato;">Dataset</span></a></b>
