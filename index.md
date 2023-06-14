@@ -16,7 +16,11 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
 - Standard registration begins May 1st.
 - <b>Workshop day: **June 19, 2023. 2nd day of CVPR**. Full day workshop.</b>
 
-## Schedule
+## Location: Hybrid
+- On site: Room <b>West 209</b>
+- [Virtual: see CVPR virtual platform for zoom link](https://cvpr2023.thecvf.com/virtual/2023/workshop/18456)
+
+## Schedule (starts at 8 am Vancouver time)
 
 The tentative schedule is the following:
 
