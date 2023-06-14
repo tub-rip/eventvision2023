@@ -108,6 +108,21 @@ hardware](papers/2023CVPRW_Low-latency_monocular_depth_estimation_using_event_ti
 8. [Integrating Event-based Hand Tracking Into TouchFree Interactions](papers/2023CVPRW_Live_Demonstration_Integrating_Event-based_Hand_Tracking_Into_TouchFree_Interactions.pdf),  and [Suppl mat](papers/2023CVPRW_Live_Demonstration_Integrating_Event-based_Hand_Tracking_Into_TouchFree_Interactions_supp.zip)
 
 
+<a name="accepted-papers"></a>   
+## Courtesy Presentations (as posters, during session #2)
+1. Event-based motion estimation and applications (Shintaro Shiba, from Keio University and TU Berlin).
+2. Deep Asynchronous Graph Neural Networks for Events and Frames (Daniel Gehrig, from the University of Zurich)
+3. Event-based animal observation (Friedhelm Hamann, from TU Berlin and the Science of Intelligence Excellence Cluster)
+4. Learning to Estimate Two Dense Depths from LiDAR and Event Data (Vincent Brevion, from UTC)
+5. Event-based shape from polarization (Manasi Muglikar, from the University of Zurich)
+6. ESS: Learning Event-based Semantic Segmentation from Still Images (Nico Messikomer, from the University of Zurich)
+7. High-fidelity Event-Radiance Recovery via Transient Event Frequency (Jin Han, from Tokyo and PKU)
+8. All-in-focus Imaging from Event Focal Stack (Minggui Teng, from PKU)
+9. Recurrent Vision Transformers for Object Detection with Event Cameras (Mathias Gehrig, from the University of Zurich)
+10. Event-aided Direct Sparse Odometry (Javier Hidalgo-Carrió, from the University of Zurich)
+11. Multi-event-camera Depth Estimation (Suman Ghosh, from TU Berlin)
+
+
 <!--
 ## Call for Papers
 
@@ -124,7 +139,6 @@ hardware](papers/2023CVPRW_Low-latency_monocular_depth_estimation_using_event_ti
   Accepted papers will be published open access through the Computer Vision Foundation (CVF) (see <a href="https://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_EventVision">examples from CVPR Workshop 2019</a> <a href="https://openaccess.thecvf.com/CVPR2021_workshops/EventVision">and 2021</a>).
   For the accepted papers we encourage authors to write a paragraph about ethical considerations and impact of their work.
 </div></p>
--->
 
 ### Courtesy presentations (in the poster session) 
 <div style="text-align: justify">
@@ -132,6 +146,7 @@ hardware](papers/2023CVPRW_Low-latency_monocular_depth_estimation_using_event_ti
   These presentations provide visibility to your work and help building a community around the topics of the workshop. These contributions will be checked for relevance to the workshop, but will not undergo a complete review, and will not be published in the workshop proceedings. 
   Please contact the organizers to make arrangements to showcase your work at the workshop.  
 </div>
+-->
 
 <!--
 ## Reviewer Acknowledgement
