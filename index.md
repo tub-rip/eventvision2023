@@ -75,6 +75,8 @@ All posters must go up at 10:10 h and taken down at 13:30 h.
 
 <a name="courtesy-presentations"></a>   
 ## Courtesy Presentations (as posters, during session #2)
+<b>Poster boards 1 to 11.</b>
+
 1. [Event Collapse in Motion Estimation using Contrast Maximization](https://github.com/tub-rip/event_collapse), by [Shintaro Shiba](http://shibashintaro.com/), from Keio University and TU Berlin. <b><a href="papers/2023CVPRW_EventCollapse_and_OpticalFlow_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
 2. [Deep Asynchronous Graph Neural Networks for Events and Frames](https://danielgehrig18.github.io/), by [Daniel Gehrig](https://scholar.google.es/citations?user=FWpgbBsAAAAJ&hl=en), from the University of Zurich.
 3. [Animal behavior observation with event cameras](https://arxiv.org/abs/2207.07332), by [Friedhelm Hamann](https://www.scienceofintelligence.de/people/friedhelm-hamann/), from TU Berlin and the Science of Intelligence Excellence Cluster (SCIoI). <b><a href="papers/2023CVPRW_Poster_Animal_Observation.pdf"><span style="color:tomato;">Poster</span></a></b>
@@ -89,6 +91,8 @@ All posters must go up at 10:10 h and taken down at 13:30 h.
 
 <a name="accepted-papers"></a>   
 ## Accepted Papers
+<b>Poster boards 11 + list index: 12, 13, 14, etc.</b>
+
 12. [M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset](papers/2023CVPRW_M3ED_Multi-Robot_Multi-Sensor_Multi-Environment_Event_Dataset.pdf), <b><a href="https://m3ed.io/"><span style="color:tomato;">Dataset</span></a></b>,  <b><a href="https://github.com/daniilidis-group/m3ed"><span style="color:tomato;">Code</span></a></b>
 13. [Asynchronous Events-based Panoptic Segmentation using Graph Mixer Neural Network](papers/2023CVPRW_Asynchronous_Events-based_Panoptic_Segmentation_using_Graph_Mixer_Neural_Network.pdf), and [Suppl mat](papers/2023CVPRW_Asynchronous_Events-based_Panoptic_Segmentation_using_Graph_Mixer_Neural_Network_supp.pdf),  <b><a href="https://github.com/sanket0707/GNN-Mixer.git"><span style="color:tomato;">Code and data</span></a></b>
 14. [Event-IMU fusion strategies for faster-than-IMU estimation throughput](papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput.pdf),  and [Suppl mat](papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput_supp.zip) 
@@ -119,6 +123,8 @@ hardware](papers/2023CVPRW_Low-latency_monocular_depth_estimation_using_event_ti
 
 
 ## Live Demonstrations
+<b>Poster boards 37 + list index: 38, 39, 40, etc.</b>
+
 38. [E2P--Events to Polarization Reconstruction from PDAVIS Events](papers/2023CVPRW_Live_Demonstration_E2P_Events_to_Polarization_Reconstruction_from_PDAVIS_Events.pdf),  and [Suppl mat](papers/2023CVPRW_Live_Demonstration_E2P_Events_to_Polarization_Reconstruction_from_PDAVIS_Events_supp.zip), <b><a href="https://github.com/SensorsINI/e2p"><span style="color:tomato;">Code</span></a></b>
 39. [PINK: Polarity-based Anti-flicker for Event Cameras](papers/2023CVPRW_Live_Demonstration_PINK_Polarity-based_Anti-flicker_for_Event_Cameras.pdf), <b><a href="https://youtu.be/5UdU0PLZaf8"><span style="color:tomato;">Video</span></a></b>
 40. [Event-based Visual Microphone](papers/2023CVPRW_Live_Demonstration_Event-based_Visual_Microphone.pdf),  and [Suppl mat](papers/2023CVPRW_Live_Demonstration_Event-based_Visual_Microphone_supp.zip)
