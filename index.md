@@ -27,7 +27,7 @@ The tentative schedule is the following:
 Time (local) | Session
 --- | ---
 8:00 | Session 1: Event-based cameras and neuromorphic computing (Invited speakers)
-10:10 | Coffee break
+10:10 | Coffee break. Set up posters.
 10:30 | Session 2: Poster session: contributed papers, demos and courtesy presentations (as posters).
 12:30 | Lunch break
 13:30 | Session 3: Applications, Algorithms and Architectures (Invited speakers)
@@ -56,6 +56,8 @@ Time (local) | Session
 
 ### Session #2 (10:30 h, Vancouver time)
 * <b>Poster session</b>. Accepted papers, demos and courtesy presentations. See links below.
+* <b>Posters #1 to #49 in the West exhibit hall</b> are booked for this workshop from 10:10 to 13:30 h. 
+All posters must go up at poster session, not prior,  and taken down at the end of the session
 
 ### Session #3 (13:30 h, Vancouver time)
 * [Felix Heide (Princeton)](https://www.cs.princeton.edu/~fheide/): Neural nano-optics.
