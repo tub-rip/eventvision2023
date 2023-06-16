@@ -124,7 +124,7 @@ hardware](papers/2023CVPRW_Low-latency_monocular_depth_estimation_using_event_ti
 9. [All-in-focus Imaging from Event Focal Stack](https://youtu.be/9HQLqj4cY7o), by Hanyue Lou, [Minggui Teng](https://tengminggui.cn/), Yixin Yang, and [Boxin Shi](https://ci.idm.pku.edu.cn/), CVPR 2023.
 11. [Recurrent Vision Transformers for Object Detection with Event Cameras](https://github.com/uzh-rpg/RVT), by [Mathias Gehrig](https://scholar.google.es/citations?user=uTMjaVoAAAAJ&hl=en), from the University of Zurich, CVPR 2023.
 12. [Event-aided Direct Sparse Odometry](https://rpg.ifi.uzh.ch/eds.html), by [Javier Hidalgo-Carrió](https://jhidalgocarrio.github.io/), from the University of Zurich. <b><a href="papers/2023CVPRW_EDS_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
-13. [Multi-event-camera Depth Estimation](https://github.com/tub-rip/dvs_mcemvs), by [Suman Ghosh](https://sumanghosh29.wixsite.com/sumanghosh), from TU Berlin.
+13. [Multi-event-camera Depth Estimation](https://github.com/tub-rip/dvs_mcemvs), by [Suman Ghosh](https://sumanghosh29.wixsite.com/sumanghosh), from TU Berlin. <b><a href="papers/2023CVPRW_MCEMVS_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
 
 ## Objectives
 
