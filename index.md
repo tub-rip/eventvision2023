@@ -59,7 +59,7 @@ Time (local) | Session
 
 ### Session #3 (13:30 h, Vancouver time)
 * [Felix Heide (Princeton)](https://www.cs.princeton.edu/~fheide/): Neural nano-optics.
-* [Arren Glover (Italian Institute of Technology)](https://www.iit.it/people/arren-glover): Neuromorphic perception for robots.
+* [Arren Glover (Italian Institute of Technology)](https://www.iit.it/people/arren-glover): Real-time, Speed-invariant, Vision for Robotics.
 * [Boxin Shi (Peking University)](https://ci.idm.pku.edu.cn/): NeuCAP: Neuromorphic Camera Aided Photography
 
 ### Session #4 (16:00 h, Vancouver time)
