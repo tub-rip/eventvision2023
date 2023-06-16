@@ -57,7 +57,7 @@ Time (local) | Session
 ### Session #2 (10:30 h, Vancouver time)
 * <b>Poster session</b>. Accepted papers, demos and courtesy presentations. See links below.
 * <b>Posters #1 to #49 in the West exhibit hall</b> are booked for this workshop from 10:10 to 13:30 h. 
-All posters must go up at poster session, not prior,  and taken down at the end of the session
+All posters must go up at 10:10 h and taken down at 13:30 h.
 
 ### Session #3 (13:30 h, Vancouver time)
 * [Felix Heide (Princeton)](https://www.cs.princeton.edu/~fheide/): Neural nano-optics.
