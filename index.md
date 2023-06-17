@@ -6,16 +6,6 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
 
 <b>Welcome to the 4th International Workshop on Event-Based Vision!</b>  
 
-## Important Dates
-
-- Paper submission deadline: ~~March 20, 2023 (23:59h PST).  [Submission website (CMT)](https://cmt3.research.microsoft.com/EVENTVISION2023)~~
-- Demo abstract submission: ~~March 20, 2023 (23:59h PST)~~
-- Notification to authors: ~~April 3, 2023~~
-- Camera-ready paper: ~~April 14, 2023 (deadline by IEEE)~~
-- ~~[Early-bird registration **April 30th** (23:59h ET)](https://cvpr2023.thecvf.com/Conferences/2023/Pricing2)~~
-- Standard registration begins May 1st.
-- <b>Workshop day: **June 19, 2023. 2nd day of CVPR**. Full day workshop.</b>
-
 ## Location: Hybrid
 - On site: Room <b>West 209</b>
 - [Virtual: see CVPR virtual platform for zoom link](https://cvpr2023.thecvf.com/virtual/2023/workshop/18456)
@@ -70,7 +60,6 @@ All posters must go up at 10:10 h and taken down at 13:30 h.
 * [Andreas Suess (OmniVision Technologies)](https://www.linkedin.com/in/andreas-suess-03a510162/): Towards hybrid event/image vision
 * [Nandan Nayampally (Brainchip)](https://brainchip.com/): Enabling Ultra-Low Power Edge Inference and On-Device Learning with Akida.
 * [Christoph Posch (Prophesee)](https://www.prophesee.ai/): Event sensors for embedded AI vision applications
-
 
 
 <a name="courtesy-presentations"></a>   
@@ -197,6 +186,15 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
 - [Cornelia Fermüller](http://users.umiacs.umd.edu/~fer), University of Maryland, USA.
 - [Davide Migliore](https://www.linkedin.com/in/davidemigliore), [Prophesee](https://www.prophesee.ai/), France.
 
+## Important Dates
+
+- Paper submission deadline: ~~March 20, 2023 (23:59h PST).  [Submission website (CMT)](https://cmt3.research.microsoft.com/EVENTVISION2023)~~
+- Demo abstract submission: ~~March 20, 2023 (23:59h PST)~~
+- Notification to authors: ~~April 3, 2023~~
+- Camera-ready paper: ~~April 14, 2023 (deadline by IEEE)~~
+- ~~[Early-bird registration **April 30th** (23:59h ET)](https://cvpr2023.thecvf.com/Conferences/2023/Pricing2)~~
+- Standard registration begins May 1st.
+- <b>Workshop day: **June 19, 2023. 2nd day of CVPR**. Full day workshop.</b>
 
 ## FAQs
 <ul>
