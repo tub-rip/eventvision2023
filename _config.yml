@@ -26,6 +26,6 @@ defaults:
       path: ""
     values:
       image:
-        path: /images/cvpr2023_eventvision_workshop.jpg
+        path: /images/workshop_speakers_2023.jpg
         height: 630
         width: 1200
