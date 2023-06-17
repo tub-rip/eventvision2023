@@ -6,6 +6,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
 
 <b>Welcome to the 4th International Workshop on Event-Based Vision!</b>  
 
+## Speakers
+![imagen](/images/workshop_speakers_2023.jpg)
+ 
 ## Location: Hybrid
 - On site: Room <b>West 209</b>
 - [Virtual: see CVPR virtual platform for zoom link](https://cvpr2023.thecvf.com/virtual/2023/workshop/18456)
@@ -37,7 +40,6 @@ Time (local) | Session
 - Award Ceremony and Final Panel Discussion.
 -->
 
-## Invited Speakers
 ### Session #1 (8:00 h, Vancouver time)
 * [Kaushik Roy (Purdue University)](https://scholar.google.com/citations?hl=en&user=to4P8KgAAAAJ&view_op=list_works&sortby=pubdate): Re-thinking Computing with Neuro-Inspired Learning: Algorithms, Sensors, and Hardware Architecture.
 * [Ryad Benosman (Meta)](https://scholar.google.ch/citations?user=_ZTFUooAAAAJ&hl=en&oi=sra): The Interplay Between Events and Frames: A Comprehensive Explanation
