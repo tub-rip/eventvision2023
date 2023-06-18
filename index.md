@@ -78,7 +78,7 @@ All posters must go up at 10:10 h and taken down at 13:30 h.
 8. [Event-based shape from polarization](https://rpg.ifi.uzh.ch/esfp.html), by [Manasi Muglikar](https://manasi94.github.io/), from the University of Zurich, CVPR 2023.
 9. [All-in-focus Imaging from Event Focal Stack](https://youtu.be/9HQLqj4cY7o), by Hanyue Lou, [Minggui Teng](https://tengminggui.cn/), Yixin Yang, and [Boxin Shi](https://ci.idm.pku.edu.cn/), CVPR 2023.
 10. [Event-aided Direct Sparse Odometry](https://rpg.ifi.uzh.ch/eds.html), by [Javier Hidalgo-Carrió](https://jhidalgocarrio.github.io/), from the University of Zurich. <b><a href="papers/2023CVPRW_EDS_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
-11. [High-fidelity Event-Radiance Recovery via Transient Event Frequency](https://github.com/hjynwa/TEF), by [Jin Han](https://hjynwa.github.io/), Yuta Asano, [Boxin Shi](https://ci.idm.pku.edu.cn/), [Yinqiang Zheng](https://scholar.google.com/citations?user=JD-5DKcAAAAJ&hl), and [Imari Sato](https://scholar.google.com/citations?user=gtfbzYwAAAAJ), from the University of Tokyo, NII and Peking University, CVPR 2023.
+11. [High-fidelity Event-Radiance Recovery via Transient Event Frequency](https://github.com/hjynwa/TEF), by [Jin Han](https://hjynwa.github.io/), Yuta Asano, [Boxin Shi](https://ci.idm.pku.edu.cn/), [Yinqiang Zheng](https://scholar.google.com/citations?user=JD-5DKcAAAAJ&hl), and [Imari Sato](https://scholar.google.com/citations?user=gtfbzYwAAAAJ), from the University of Tokyo, NII and Peking University, CVPR 2023. <b><a href="papers/2023CVPRW_High-fidelity_Event-Radiance_Recovery_via_Transient_Event_Frequency_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
 
 <a name="accepted-papers"></a>   
 ## Accepted Papers
