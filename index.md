@@ -6,11 +6,13 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
 
 <b>Welcome to the 4th International Workshop on Event-Based Vision!</b>  
 
+## <span style="color:tomato;">[Introduction slides](https://docs.google.com/presentation/d/1qPRGIAz6ZRtJmVEYhfHjJZZc5I9F45Rvz4zjbyktWVw/edit?usp=sharing)</span>
+
 ## Speakers
 ![imagen](/images/workshop_speakers_2023.jpg)
  
 ## Location: Hybrid
-- On site: Room <b>West 209</b>
+- On site (Vancouver Convention Center): Room <b>West 209</b>
 - [Virtual: see CVPR virtual platform for zoom link](https://cvpr2023.thecvf.com/virtual/2023/workshop/18456)
 
 ## Schedule (starts at 8 am Vancouver time)
@@ -19,6 +21,7 @@ The tentative schedule is the following:
 
 Time (local) | Session
 --- | ---
+8:00 | **[Intro slides](https://docs.google.com/presentation/d/1qPRGIAz6ZRtJmVEYhfHjJZZc5I9F45Rvz4zjbyktWVw/edit?usp=sharing)**
 8:00 | Session 1: Event-based cameras and neuromorphic computing (Invited speakers)
 10:10 | Coffee break. Set up posters.
 10:30 | Session 2: Poster session: contributed papers, demos and courtesy presentations (as posters).
@@ -93,7 +96,7 @@ All posters must go up at 10:10 h and taken down at 13:30 h.
 18. [Neuromorphic Event-based Facial Expression Recognition](papers/2023CVPRW_Neuromorphic_Event-based_Facial_Expression_Recognition.pdf), <b><a href="https://github.com/miccunifi/NEFER"><span style="color:tomato;">Dataset</span></a></b>
 19. [Low-latency monocular depth estimation using event timing on neuromorphic
 hardware](papers/2023CVPRW_Low-latency_monocular_depth_estimation_using_event_timing_on_neuromorphic_hardware.pdf)
-20. [Frugal event data: how small is too small? A human performance assessment with shrinking data](papers/2023CVPRW_Frugal_event_data_How_small_is_too_small.pdf)
+20. [Frugal event data: how small is too small? A human performance assessment with shrinking data](papers/2023CVPRW_Frugal_event_data_How_small_is_too_small.pdf), <b><a href="papers/2023CVPRW_Frugal_event_data_How_small_is_too_small_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
 21. [Flow cytometry with event-based vision and spiking neuromorphic hardware](papers/2023CVPRW_Flow_cytometry_with_event-based_vision_and_spiking_neuromorphic_hardware.pdf),  <b><a href="https://github.com/stevenabreu7/dvs_flow"><span style="color:tomato;">Code</span></a></b>,  <b><a href="papers/2023CVPRW_Flow_cytometry_with_event-based_vision_and_spiking_neuromorphic_hardware_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
 22. [How Many Events Make an Object? Improving Single-frame Object Detection on the 1 Mpx Dataset](papers/2023CVPRW_How_Many_Events_Make_an_Object.pdf),  and [Suppl mat](papers/2023CVPRW_How_Many_Events_Make_an_Object_supp.pdf), <b><a href="https://github.com/boschresearch/ecod"><span style="color:tomato;">Code</span></a></b>
 23. [EVREAL: Towards a Comprehensive Benchmark and Analysis Suite for Event-based Video Reconstruction](papers/2023CVPRW_EVREAL_Towards_a_Comprehensive_Benchmark_and_Analysis_Suite_for_Event-based_Video_Reconstruction.pdf),  and [Suppl mat](papers/2023CVPRW_EVREAL_Towards_a_Comprehensive_Benchmark_and_Analysis_Suite_for_Event-based_Video_Reconstruction_supp.zip), <b><a href="https://ercanburak.github.io/evreal.html"><span style="color:tomato;">Code</span></a></b>
@@ -105,7 +108,7 @@ hardware](papers/2023CVPRW_Low-latency_monocular_depth_estimation_using_event_ti
 29. [Predictive Coding Light: learning compact visual codes by combining excitatory and inhibitory spike timing-dependent plasticity](papers/2023CVPRW_Predictive_Coding_Light.pdf)
 30. [Neuromorphic Optical Flow and Real-time Implementation with Event Cameras](papers/2023CVPRW_Neuromorphic_Optical_Flow_and_Real-time_Implementation_with_Event_Cameras.pdf),  and [Suppl mat](papers/2023CVPRW_Neuromorphic_Optical_Flow_and_Real-time_Implementation_with_Event_Cameras_supp.pdf), [Poster](papers/2023CVPRW_Neuromorphic_Optical_Flow_and_Real-time_Implementation_with_Event_Cameras_poster.pdf), <b><a href="https://youtu.be/jDGDxKabj0o"><span style="color:tomato;">Video</span></a></b>
 31. [HUGNet: Hemi-Spherical Update Graph Neural Network applied to low-latency event-based optical flow](papers/2023CVPRW_HUGNet_Hemi-Spherical_Update_Graph_Neural_Network_applied_to_low-latency_event-based_optical_flow.pdf),  and [Suppl mat](papers/2023CVPRW_HUGNet_Hemi-Spherical_Update_Graph_Neural_Network_applied_to_low-latency_event-based_optical_flow_supp.pdf)
-32. [End-to-end Neuromorphic Lip-reading](papers/2023CVPRW_End-to-end_Neuromorphic_Lip-reading.pdf)
+32. [End-to-end Neuromorphic Lip-reading](papers/2023CVPRW_End-to-end_Neuromorphic_Lip-reading.pdf), <b><a href="papers/2023CVPRW_End-to-end_Neuromorphic_Lip-reading_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
 33. [Sparse-E2VID: A Sparse Convolutional Model for Event-Based Video Reconstruction Trained with Real Event Noise](papers/2023CVPRW_Sparse-E2VID_A_Sparse_Convolutional_Model_for_Event-Based_Video_Reconstruction.pdf),  and [Suppl mat](papers/2023CVPRW_Sparse-E2VID_A_Sparse_Convolutional_Model_for_Event-Based_Video_Reconstruction_supp.zip), <b><a href="https://youtu.be/sFH9zp6kuWE"><span style="color:tomato;">Video</span></a></b>
 34. [Interpolation-Based Event Visual Data Filtering Algorithms](papers/2023CVPRW_Interpolation-Based_Event_Visual_Data_Filtering_Algorithms.pdf),  <b><a href="https://github.com/vision-agh/DVS_FilterInterpolation"><span style="color:tomato;">Code</span></a></b>
 35. [Within-Camera Multilayer Perceptron DVS Denoising](papers/2023CVPRW_Within-Camera_Multilayer_Perceptron_DVS_Denoising.pdf), [Suppl mat](papers/2023CVPRW_Within-Camera_Multilayer_Perceptron_DVS_Denoising_supp.pdf), <b><a href="https://github.com/SensorsINI/dnd_hls"><span style="color:tomato;">Code</span></a></b>, <b><a href="papers/2023CVPRW_Within-Camera_Multilayer_Perceptron_DVS_Denoising_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
