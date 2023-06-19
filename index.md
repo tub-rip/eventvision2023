@@ -6,11 +6,13 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
 
 <b>Welcome to the 4th International Workshop on Event-Based Vision!</b>  
 
+## <span style="color:tomato;">[Introduction slides](https://docs.google.com/presentation/d/1qPRGIAz6ZRtJmVEYhfHjJZZc5I9F45Rvz4zjbyktWVw/edit?usp=sharing)</span>
+
 ## Speakers
 ![imagen](/images/workshop_speakers_2023.jpg)
  
 ## Location: Hybrid
-- On site: Room <b>West 209</b>
+- On site (Vancouver Convention Center): Room <b>West 209</b>
 - [Virtual: see CVPR virtual platform for zoom link](https://cvpr2023.thecvf.com/virtual/2023/workshop/18456)
 
 ## Schedule (starts at 8 am Vancouver time)
@@ -19,6 +21,7 @@ The tentative schedule is the following:
 
 Time (local) | Session
 --- | ---
+8:00 | **[Intro slides](https://docs.google.com/presentation/d/1qPRGIAz6ZRtJmVEYhfHjJZZc5I9F45Rvz4zjbyktWVw/edit?usp=sharing)**
 8:00 | Session 1: Event-based cameras and neuromorphic computing (Invited speakers)
 10:10 | Coffee break. Set up posters.
 10:30 | Session 2: Poster session: contributed papers, demos and courtesy presentations (as posters).
