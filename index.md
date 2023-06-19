@@ -61,7 +61,7 @@ All posters must go up at 10:10 h and taken down at 13:30 h.
 
 ### Session #4 (16:00 h, Vancouver time)
 * [Kynan Eng (iniVation)](https://inivation.com/): Reimagining neuromorphic event-based vision
-* [Atsumi Niwa (Sony)](https://www.linkedin.com/in/atsumi-niwa-a1227692/): Event-based Vision Sensor and On-chip Processing Development
+* [Atsumi Niwa (Sony)](https://www.linkedin.com/in/atsumi-niwa-a1227692/): Event-based Vision Sensor and On-chip Processing Development. [Slides](https://docs.google.com/presentation/d/1XrubklM7Z7Rl1zpOWnNUKOFuSFVi9QJO/edit?usp=sharing&ouid=107010905684016788580&rtpof=true&sd=true)
 * [Andreas Suess (OmniVision Technologies)](https://www.linkedin.com/in/andreas-suess-03a510162/): Towards hybrid event/image vision
 * [Nandan Nayampally (Brainchip)](https://brainchip.com/): Enabling Ultra-Low Power Edge Inference and On-Device Learning with Akida.
 * [Christoph Posch (Prophesee)](https://www.prophesee.ai/): Event sensors for embedded AI vision applications
