@@ -57,6 +57,10 @@ All posters must go up at 10:10 h and taken down at 13:30 h.
 ### Session #3 (13:30 h, Vancouver time)
 * [Felix Heide (Princeton)](https://www.cs.princeton.edu/~fheide/): Neural nano-optics.
 * [Arren Glover (Italian Institute of Technology)](https://www.iit.it/people/arren-glover): Real-time, Speed-invariant, Vision for Robotics.
+* Cornelia Fermüller (University of Maryland)
+* Kostas Daniilidis (University of Pennsylvania)
+* Daniel Gehrig (Davide Scaramuzza's Lab, University of Zurich)
+* Guillermo Gallegoo (TU Berlin)
 * [Boxin Shi (Peking University)](https://ci.idm.pku.edu.cn/): NeuCAP: Neuromorphic Camera Aided Photography
 
 ### Session #4 (16:00 h, Vancouver time)
