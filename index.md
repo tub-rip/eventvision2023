@@ -6,7 +6,9 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
 
 <b>Welcome to the 4th International Workshop on Event-Based Vision!</b>  
 
+<!--
 ## <span style="color:tomato;">[Introduction slides](https://docs.google.com/presentation/d/1qPRGIAz6ZRtJmVEYhfHjJZZc5I9F45Rvz4zjbyktWVw/edit?usp=sharing)</span>
+-->
 
 ## Speakers
 ![imagen](/images/workshop_speakers_2023.jpg)
@@ -21,7 +23,7 @@ The tentative schedule is the following:
 
 Time (local) | Session
 --- | ---
-8:00 | **[Intro slides](https://docs.google.com/presentation/d/1qPRGIAz6ZRtJmVEYhfHjJZZc5I9F45Rvz4zjbyktWVw/edit?usp=sharing)**
+8:00 | [Introduction slides](https://docs.google.com/presentation/d/1qPRGIAz6ZRtJmVEYhfHjJZZc5I9F45Rvz4zjbyktWVw/edit?usp=sharing)
 8:00 | Session 1: Event-based cameras and neuromorphic computing (Invited speakers)
 10:10 | Coffee break. Set up posters.
 10:30 | Session 2: Poster session: contributed papers, demos and courtesy presentations (as posters).
@@ -29,7 +31,7 @@ Time (local) | Session
 13:30 | Session 3: Applications, Algorithms and Architectures (Invited speakers)
 15:30 | Coffee break
 16:00 | Session 4: Industrial Session (Invited speakers).
-17:45 | Award Ceremony and Final Panel Discussion.
+17:45 | [Award ceremony](https://docs.google.com/presentation/d/1DF2-hyGVP2G1wgXJC-n8yF2lZMf3633YOyjT-h_dKVs/edit?usp=sharing)
 18:00 | End
 
 <!--
@@ -52,24 +54,24 @@ Time (local) | Session
 ### Session #2 (10:30 h, Vancouver time)
 * <b>Poster session</b>. Accepted papers, demos and courtesy presentations. See links below.
 * <b>Posters #1 to #49 in the West exhibit hall</b> are booked for this workshop from 10:10 to 13:30 h. 
-All posters must go up at 10:10 h and taken down at 13:30 h.
+All posters must go up at 10:10 h and be taken down at 13:30 h.
 
 ### Session #3 (13:30 h, Vancouver time)
 * [Felix Heide (Princeton)](https://www.cs.princeton.edu/~fheide/): Neural nano-optics.
 * [Arren Glover (Italian Institute of Technology)](https://www.iit.it/people/arren-glover): Real-time, Speed-invariant, Vision for Robotics.
-* Cornelia Fermüller (University of Maryland)
-* Kostas Daniilidis (University of Pennsylvania)
-* Daniel Gehrig (Davide Scaramuzza's Lab, University of Zurich)
-* Guillermo Gallegoo (TU Berlin)
+* [Cornelia Fermüller (University of Maryland)](https://scholar.google.ch/citations?user=0gEOJSEAAAAJ&hl=en). [NeuroPAC](https://www.neuropac.info/)
+* [Kenneth Chaney and Fernando Cladera (Kostas Daniilidis' Lab, University of Pennsylvania)](https://m3ed.io/index.html)
+* [Daniel Gehrig (Davide Scaramuzza's Lab, University of Zurich)](https://danielgehrig18.github.io/)
+* [Guillermo Gallego (TU Berlin, ECDF, SCIoI)](https://sites.google.com/view/guillermogallego/research/event-based-vision)
 * [Boxin Shi (Peking University)](https://ci.idm.pku.edu.cn/): NeuCAP: Neuromorphic Camera Aided Photography
 
 ### Session #4 (16:00 h, Vancouver time)
+* [Yulia Sandamirskaya and Andreas Wild (Intel Labs)](https://www.intel.com/content/www/us/en/research/neuromorphic-computing.html)
 * [Kynan Eng (iniVation)](https://inivation.com/): Reimagining neuromorphic event-based vision
 * [Atsumi Niwa (Sony)](https://www.linkedin.com/in/atsumi-niwa-a1227692/): Event-based Vision Sensor and On-chip Processing Development. [Slides](https://docs.google.com/presentation/d/1XrubklM7Z7Rl1zpOWnNUKOFuSFVi9QJO/edit?usp=sharing&ouid=107010905684016788580&rtpof=true&sd=true)
 * [Andreas Suess (OmniVision Technologies)](https://www.linkedin.com/in/andreas-suess-03a510162/): Towards hybrid event/image vision
 * [Nandan Nayampally (Brainchip)](https://brainchip.com/): Enabling Ultra-Low Power Edge Inference and On-Device Learning with Akida.
 * [Christoph Posch (Prophesee)](https://www.prophesee.ai/): Event sensors for embedded AI vision applications
-
 
 <a name="courtesy-presentations"></a>   
 ## Courtesy Presentations (as posters, during session #2)
