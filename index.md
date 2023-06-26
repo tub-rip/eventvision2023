@@ -224,6 +224,11 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
   <li><b>Where can I find more information?</b> Check out this <a href="https://github.com/uzh-rpg/event-based_vision_resources">List of Event-based Vision Resources</a>.</li>
 </ul>
 
+## Upcoming Related Workshops
+<ul>
+  <li><a href="slides/2023-11_Workshop_event_cameras_Sorbonne.pdf.pdf">Caméra à événements appliquée à la robotique</a>, Sorbonne University, Paris (Nov. 16th, 2023).</li>
+</ul>
+
 ## Past Related Workshops
 <ul>
   <li><a href="https://sites.google.com/view/eventsensorfusion2022/home">MFI 2022 First Neuromorphic Event Sensor Fusion Workshop</a>.
