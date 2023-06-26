@@ -61,7 +61,7 @@ All posters must go up at 10:10 h and be taken down at 13:30 h.
 
 ### Session #3 (13:30 h, Vancouver time)
 * [Felix Heide (Princeton)](https://www.cs.princeton.edu/~fheide/): Neural nano-optics.
-* [Arren Glover (Italian Institute of Technology)](https://www.iit.it/people/arren-glover): Real-time, Speed-invariant, Vision for Robotics.
+* [Arren Glover (Italian Institute of Technology)](https://www.iit.it/people/arren-glover): Real-time, Speed-invariant, Vision for Robotics. <b><a href="slides/2023CVPRW_Glover_novideo.pdf"><span style="color:tomato;">Slides</span></a></b>
 * [Cornelia Fermüller (University of Maryland)](https://scholar.google.ch/citations?user=0gEOJSEAAAAJ&hl=en). [NeuroPAC](https://www.neuropac.info/)
 * [Kenneth Chaney and Fernando Cladera (Kostas Daniilidis' Lab, University of Pennsylvania)](https://m3ed.io/index.html)
 * [Daniel Gehrig (Davide Scaramuzza's Lab, University of Zurich)](https://danielgehrig18.github.io/)
