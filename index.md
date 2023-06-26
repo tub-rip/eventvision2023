@@ -66,12 +66,12 @@ All posters must go up at 10:10 h and be taken down at 13:30 h.
 * [Kenneth Chaney and Fernando Cladera (Kostas Daniilidis' Lab, University of Pennsylvania)](https://m3ed.io/index.html)
 * [Daniel Gehrig (Davide Scaramuzza's Lab, University of Zurich)](https://danielgehrig18.github.io/)
 * [Guillermo Gallego (TU Berlin, ECDF, SCIoI)](https://sites.google.com/view/guillermogallego/research/event-based-vision)
-* [Boxin Shi (Peking University)](https://ci.idm.pku.edu.cn/): NeuCAP: Neuromorphic Camera Aided Photography
+* [Boxin Shi (Peking University)](https://ci.idm.pku.edu.cn/): NeuCAP: Neuromorphic Camera Aided Photography. <b><a href="slides/2023CVPRW_Shi_NeuCamAidedPhoto.pdf"><span style="color:tomato;">Slides</span></a></b>
 
 ### Session #4 (16:00 h, Vancouver time)
 * [Yulia Sandamirskaya and Andreas Wild (Intel Labs)](https://www.intel.com/content/www/us/en/research/neuromorphic-computing.html)
 * [Kynan Eng (iniVation)](https://inivation.com/): Reimagining neuromorphic event-based vision
-* [Atsumi Niwa (Sony)](https://www.linkedin.com/in/atsumi-niwa-a1227692/): Event-based Vision Sensor and On-chip Processing Development. [Slides](https://docs.google.com/presentation/d/1XrubklM7Z7Rl1zpOWnNUKOFuSFVi9QJO/edit?usp=sharing&ouid=107010905684016788580&rtpof=true&sd=true)
+* [Atsumi Niwa (Sony)](https://www.linkedin.com/in/atsumi-niwa-a1227692/): Event-based Vision Sensor and On-chip Processing Development. <b><a href="https://docs.google.com/presentation/d/1XrubklM7Z7Rl1zpOWnNUKOFuSFVi9QJO/edit?usp=sharing&ouid=107010905684016788580&rtpof=true&sd=true"><span style="color:tomato;">Slides</span></a></b>
 * [Andreas Suess (OmniVision Technologies)](https://www.linkedin.com/in/andreas-suess-03a510162/): Towards hybrid event/image vision
 * [Nandan Nayampally (Brainchip)](https://brainchip.com/): Enabling Ultra-Low Power Edge Inference and On-Device Learning with Akida.
 * [Christoph Posch (Prophesee)](https://www.prophesee.ai/): Event sensors for embedded AI vision applications
