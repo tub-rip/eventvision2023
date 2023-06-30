@@ -6,18 +6,18 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
 
 <b>Welcome to the 4th International Workshop on Event-Based Vision!</b>  
 
-## Important Dates
+![group photo by S. Shiba](/images/CVPRW2023_EventVision_group_picture.jpg)
+Many thanks to all who contributed and made this workshop possible!
 
-- Paper submission deadline: ~~March 20, 2023 (23:59h PST).  [Submission website (CMT)](https://cmt3.research.microsoft.com/EVENTVISION2023)~~
-- Demo abstract submission: ~~March 20, 2023 (23:59h PST)~~
-- Notification to authors: ~~April 3, 2023~~
-- Camera-ready paper: ~~April 14, 2023 (deadline by IEEE)~~
-- ~~[Early-bird registration **April 30th** (23:59h ET)](https://cvpr2023.thecvf.com/Conferences/2023/Pricing2)~~
-- Standard registration begins May 1st.
-- <b>Workshop day: **June 19, 2023. 2nd day of CVPR**. Full day workshop.</b>
+<!--
+## <span style="color:tomato;">[Introduction slides](https://docs.google.com/presentation/d/1qPRGIAz6ZRtJmVEYhfHjJZZc5I9F45Rvz4zjbyktWVw/edit?usp=sharing)</span>
+-->
 
+## Speakers
+![imagen](/images/workshop_speakers_2023.jpg)
+ 
 ## Location: Hybrid
-- On site: Room <b>West 209</b>
+- On site (Vancouver Convention Center): Room <b>West 209</b>
 - [Virtual: see CVPR virtual platform for zoom link](https://cvpr2023.thecvf.com/virtual/2023/workshop/18456)
 
 ## Schedule (starts at 8 am Vancouver time)
@@ -26,6 +26,7 @@ The tentative schedule is the following:
 
 Time (local) | Session
 --- | ---
+8:00 | [Introduction slides](https://docs.google.com/presentation/d/1qPRGIAz6ZRtJmVEYhfHjJZZc5I9F45Rvz4zjbyktWVw/edit?usp=sharing)
 8:00 | Session 1: Event-based cameras and neuromorphic computing (Invited speakers)
 10:10 | Coffee break. Set up posters.
 10:30 | Session 2: Poster session: contributed papers, demos and courtesy presentations (as posters).
@@ -33,7 +34,7 @@ Time (local) | Session
 13:30 | Session 3: Applications, Algorithms and Architectures (Invited speakers)
 15:30 | Coffee break
 16:00 | Session 4: Industrial Session (Invited speakers).
-17:45 | Award Ceremony and Final Panel Discussion.
+17:45 | [Award ceremony](https://docs.google.com/presentation/d/1DF2-hyGVP2G1wgXJC-n8yF2lZMf3633YOyjT-h_dKVs/edit?usp=sharing)
 18:00 | End
 
 <!--
@@ -47,7 +48,6 @@ Time (local) | Session
 - Award Ceremony and Final Panel Discussion.
 -->
 
-## Invited Speakers
 ### Session #1 (8:00 h, Vancouver time)
 * [Kaushik Roy (Purdue University)](https://scholar.google.com/citations?hl=en&user=to4P8KgAAAAJ&view_op=list_works&sortby=pubdate): Re-thinking Computing with Neuro-Inspired Learning: Algorithms, Sensors, and Hardware Architecture.
 * [Ryad Benosman (Meta)](https://scholar.google.ch/citations?user=_ZTFUooAAAAJ&hl=en&oi=sra): The Interplay Between Events and Frames: A Comprehensive Explanation
@@ -57,76 +57,86 @@ Time (local) | Session
 ### Session #2 (10:30 h, Vancouver time)
 * <b>Poster session</b>. Accepted papers, demos and courtesy presentations. See links below.
 * <b>Posters #1 to #49 in the West exhibit hall</b> are booked for this workshop from 10:10 to 13:30 h. 
-All posters must go up at poster session, not prior,  and taken down at the end of the session
+All posters must go up at 10:10 h and be taken down at 13:30 h.
 
 ### Session #3 (13:30 h, Vancouver time)
 * [Felix Heide (Princeton)](https://www.cs.princeton.edu/~fheide/): Neural nano-optics.
-* [Arren Glover (Italian Institute of Technology)](https://www.iit.it/people/arren-glover): Real-time, Speed-invariant, Vision for Robotics.
-* [Boxin Shi (Peking University)](https://ci.idm.pku.edu.cn/): NeuCAP: Neuromorphic Camera Aided Photography
+* [Arren Glover (Italian Institute of Technology)](https://www.iit.it/people/arren-glover): Real-time, Speed-invariant, Vision for Robotics. <b><a href="slides/2023CVPRW_Glover_novideo.pdf"><span style="color:tomato;">Slides</span></a></b>
+* [Cornelia Fermüller (University of Maryland)](https://scholar.google.ch/citations?user=0gEOJSEAAAAJ&hl=en). [NeuroPAC](https://www.neuropac.info/)
+* [Kenneth Chaney and Fernando Cladera (Kostas Daniilidis' Lab, University of Pennsylvania)](https://m3ed.io/index.html)
+* [Daniel Gehrig (Davide Scaramuzza's Lab, University of Zurich)](https://danielgehrig18.github.io/)
+* [Guillermo Gallego (TU Berlin, ECDF, SCIoI)](https://sites.google.com/view/guillermogallego/research/event-based-vision)
+* [Boxin Shi (Peking University)](https://ci.idm.pku.edu.cn/): NeuCAP: Neuromorphic Camera Aided Photography. <b><a href="slides/2023CVPRW_Shi_NeuCamAidedPhoto.pdf"><span style="color:tomato;">Slides</span></a></b>
 
 ### Session #4 (16:00 h, Vancouver time)
+* [Yulia Sandamirskaya and Andreas Wild (Intel Labs)](https://www.intel.com/content/www/us/en/research/neuromorphic-computing.html)
 * [Kynan Eng (iniVation)](https://inivation.com/): Reimagining neuromorphic event-based vision
-* [Atsumi Niwa (Sony)](https://www.linkedin.com/in/atsumi-niwa-a1227692/): Event-based Vision Sensor and On-chip Processing Development
+* [Atsumi Niwa (Sony)](https://www.linkedin.com/in/atsumi-niwa-a1227692/): Event-based Vision Sensor and On-chip Processing Development. <b><a href="https://docs.google.com/presentation/d/1XrubklM7Z7Rl1zpOWnNUKOFuSFVi9QJO/edit?usp=sharing&ouid=107010905684016788580&rtpof=true&sd=true"><span style="color:tomato;">Slides</span></a></b>
 * [Andreas Suess (OmniVision Technologies)](https://www.linkedin.com/in/andreas-suess-03a510162/): Towards hybrid event/image vision
 * [Nandan Nayampally (Brainchip)](https://brainchip.com/): Enabling Ultra-Low Power Edge Inference and On-Device Learning with Akida.
 * [Christoph Posch (Prophesee)](https://www.prophesee.ai/): Event sensors for embedded AI vision applications
 
-
-<a name="accepted-papers"></a>   
-## Accepted Papers
-1. [M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset](papers/2023CVPRW_M3ED_Multi-Robot_Multi-Sensor_Multi-Environment_Event_Dataset.pdf), <b><a href="https://m3ed.io/"><span style="color:tomato;">Dataset</span></a></b>,  <b><a href="https://github.com/daniilidis-group/m3ed"><span style="color:tomato;">Code</span></a></b>
-2. [PDAVIS: Bio-inspired Polarization Event Camera](papers/2023CVPRW_PDAVIS_Bio-inspired_Polarization_Event_Camera.pdf), [Suppl mat](papers/2023CVPRW_PDAVIS_Bio-inspired_Polarization_Event_Camera_supp.pdf), <b><a href="https://github.com/SensorsINI/e2p"><span style="color:tomato;">Code</span></a></b> 
-3. [Asynchronous Events-based Panoptic Segmentation using Graph Mixer Neural Network](papers/2023CVPRW_Asynchronous_Events-based_Panoptic_Segmentation_using_Graph_Mixer_Neural_Network.pdf), and [Suppl mat](papers/2023CVPRW_Asynchronous_Events-based_Panoptic_Segmentation_using_Graph_Mixer_Neural_Network_supp.pdf),  <b><a href="https://github.com/sanket0707/GNN-Mixer.git"><span style="color:tomato;">Code and data</span></a></b>
-4. [Shining light on the DVS pixel: A tutorial and discussion about biasing and optimization](papers/2023CVPRW_Shining_light_on_the_DVS_pixel_A_tutorial.pdf), <b><a href="https://docs.google.com/spreadsheets/d/1XaS3hkcjlbSG5gaMnlAy89rbsomILDgu/edit#gid=1310047800"><span style="color:tomato;">Tool</span></a></b> 
-5. [Event-IMU fusion strategies for faster-than-IMU estimation throughput](papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput.pdf),  and [Suppl mat](papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput_supp.zip) 
-6. [Fast Trajectory End-Point Prediction with Event Cameras for Reactive Robot Control](papers/2023CVPRW_Fast_Trajectory_End-Point_Prediction_with_Event_Cameras_for_Reactive_Robot_Control.pdf),  and [Suppl mat](papers/2023CVPRW_Fast_Trajectory_End-Point_Prediction_with_Event_Cameras_for_Reactive_Robot_Control_supp.zip), <b><a href="https://github.com/event-driven-robotics/end-point-prediction"><span style="color:tomato;">Code</span></a></b>
-7. [Exploring Joint Embedding Architectures and Data Augmentations for Self-Supervised Representation Learning in Event-Based Vision](papers/2023CVPRW_Exploring_Joint_Embedding_Architectures_and_Data_Augmentations.pdf),  and [Suppl mat](papers/2023CVPRW_Exploring_Joint_Embedding_Architectures_and_Data_Augmentations_supp.zip), <b><a href="https://github.com/Barchid/exploring_event_ssl"><span style="color:tomato;">Code</span></a></b>
-8. [Event-based Blur Kernel Estimation For Blind Motion Deblurring](papers/2023CVPRW_Event-based_Blur_Kernel_Estimation_For_Blind_Motion_Deblurring.pdf)
-9. [Neuromorphic Event-based Facial Expression Recognition](papers/2023CVPRW_Neuromorphic_Event-based_Facial_Expression_Recognition.pdf), <b><a href="https://github.com/miccunifi/NEFER"><span style="color:tomato;">Dataset</span></a></b>
-10. [Low-latency monocular depth estimation using event timing on neuromorphic
-hardware](papers/2023CVPRW_Low-latency_monocular_depth_estimation_using_event_timing_on_neuromorphic_hardware.pdf)
-11. [Frugal event data: how small is too small? A human performance assessment with shrinking data](papers/2023CVPRW_Frugal_event_data_How_small_is_too_small.pdf)
-12. [Flow cytometry with event-based vision and spiking neuromorphic hardware](papers/2023CVPRW_Flow_cytometry_with_event-based_vision_and_spiking_neuromorphic_hardware.pdf),  <b><a href="https://github.com/stevenabreu7/dvs_flow"><span style="color:tomato;">Code</span></a></b>
-13. [How Many Events Make an Object? Improving Single-frame Object Detection on the 1 Mpx Dataset](papers/2023CVPRW_How_Many_Events_Make_an_Object.pdf),  and [Suppl mat](papers/2023CVPRW_How_Many_Events_Make_an_Object_supp.pdf), <b><a href="https://github.com/boschresearch/ecod"><span style="color:tomato;">Code</span></a></b>
-14. [EVREAL: Towards a Comprehensive Benchmark and Analysis Suite for Event-based Video Reconstruction](papers/2023CVPRW_EVREAL_Towards_a_Comprehensive_Benchmark_and_Analysis_Suite_for_Event-based_Video_Reconstruction.pdf),  and [Suppl mat](papers/2023CVPRW_EVREAL_Towards_a_Comprehensive_Benchmark_and_Analysis_Suite_for_Event-based_Video_Reconstruction_supp.zip), <b><a href="https://ercanburak.github.io/evreal.html"><span style="color:tomato;">Code</span></a></b>, <b><a href="papers/2023CVPRW_EVREAL_Towards_a_Comprehensive_Benchmark_and_Analysis_Suite_for_Event-based_Video_Reconstruction_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
-15. [X-maps: Direct Depth Lookup for Event-based Structured Light Systems](papers/2023CVPRW_X-Maps_Direct_Depth_Lookup_for_Event-based_Structured_Light_Systems.pdf), <b><a href="https://github.com/fraunhoferhhi/X-maps"><span style="color:tomato;">Code</span></a></b>
-16. [PEDRo: an Event-based Dataset for Person Detection in Robotics](papers/2023CVPRW_PEDRo_An_Event-based_Dataset_for_Person_Detection_in_Robotics.pdf), <b><a href="https://github.com/SSIGPRO/PEDRo-Event-Based-Dataset"><span style="color:tomato;">Dataset</span></a></b>
-17. [Density Invariant Contrast Maximization for Neuromorphic Earth Observations](papers/2023CVPRW_Density_Invariant_Contrast_Maximization_for_Neuromorphic_Earth_Observations.pdf), and [Suppl mat](papers/2023CVPRW_Density_Invariant_Contrast_Maximization_for_Neuromorphic_Earth_Observations_supp.pdf),  <b><a href="https://github.com/neuromorphicsystems/event_warping"><span style="color:tomato;">Code</span></a></b>
-18. [Entropy Coding-based Lossless Compression of Asynchronous Event Sequences](papers/2023CVPRW_Entropy_Coding-based_Lossless_Compression_of_Asynchronous_Event_Sequences.pdf),  and [Suppl mat](papers/2023CVPRW_Entropy_Coding-based_Lossless_Compression_of_Asynchronous_Event_Sequences_supp.pdf), [Poster](papers/2023CVPRW_Entropy_Coding-based_Lossless_Compression_of_Asynchronous_Event_Sequences_poster.pdf)
-19. [MoveEnet: Online High-Frequency Human Pose Estimation with an Event Camera](papers/2023CVPRW_MoveEnet_Online_High-Frequency_Human_Pose_Estimation_with_an_Event_Camera.pdf),  and [Suppl mat](papers/2023CVPRW_MoveEnet_Online_High-Frequency_Human_Pose_Estimation_with_an_Event_Camera_supp.zip), <b><a href="https://github.com/event-driven-robotics/hpe-core"><span style="color:tomato;">Code</span></a></b>
-20. [Predictive Coding Light: learning compact visual codes by combining excitatory and inhibitory spike timing-dependent plasticity](papers/2023CVPRW_Predictive_Coding_Light.pdf)
-21. [Neuromorphic Optical Flow and Real-time Implementation with Event Cameras](papers/2023CVPRW_Neuromorphic_Optical_Flow_and_Real-time_Implementation_with_Event_Cameras.pdf),  and [Suppl mat](papers/2023CVPRW_Neuromorphic_Optical_Flow_and_Real-time_Implementation_with_Event_Cameras_supp.pdf)
-22. [HUGNet: Hemi-Spherical Update Graph Neural Network applied to low-latency event-based optical flow](papers/2023CVPRW_HUGNet_Hemi-Spherical_Update_Graph_Neural_Network_applied_to_low-latency_event-based_optical_flow.pdf),  and [Suppl mat](papers/2023CVPRW_HUGNet_Hemi-Spherical_Update_Graph_Neural_Network_applied_to_low-latency_event-based_optical_flow_supp.pdf)
-23. [End-to-end Neuromorphic Lip-reading](papers/2023CVPRW_End-to-end_Neuromorphic_Lip-reading.pdf)
-24. [Sparse-E2VID: A Sparse Convolutional Model for Event-Based Video Reconstruction Trained with Real Event Noise](papers/2023CVPRW_Sparse-E2VID_A_Sparse_Convolutional_Model_for_Event-Based_Video_Reconstruction.pdf),  and [Suppl mat](papers/2023CVPRW_Sparse-E2VID_A_Sparse_Convolutional_Model_for_Event-Based_Video_Reconstruction_supp.zip), <b><a href="https://youtu.be/sFH9zp6kuWE"><span style="color:tomato;">Video</span></a></b>
-25. [Within-Camera Multilayer Perceptron DVS Denoising](papers/2023CVPRW_Within-Camera_Multilayer_Perceptron_DVS_Denoising.pdf), [Suppl mat](papers/2023CVPRW_Within-Camera_Multilayer_Perceptron_DVS_Denoising_supp.pdf), <b><a href="https://github.com/SensorsINI/dnd_hls"><span style="color:tomato;">Code</span></a></b>, <b><a href="papers/2023CVPRW_Within-Camera_Multilayer_Perceptron_DVS_Denoising_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
-26. [Interpolation-Based Event Visual Data Filtering Algorithms](papers/2023CVPRW_Interpolation-Based_Event_Visual_Data_Filtering_Algorithms.pdf),  <b><a href="https://github.com/vision-agh/DVS_FilterInterpolation"><span style="color:tomato;">Code</span></a></b>
-
-
-## Live Demonstrations
-1. [PINK: Polarity-based Anti-flicker for Event Cameras](papers/2023CVPRW_Live_Demonstration_PINK_Polarity-based_Anti-flicker_for_Event_Cameras.pdf), <b><a href="https://youtu.be/5UdU0PLZaf8"><span style="color:tomato;">Video</span></a></b>
-2. [Event-based Visual Microphone](papers/2023CVPRW_Live_Demonstration_Event-based_Visual_Microphone.pdf),  and [Suppl mat](papers/2023CVPRW_Live_Demonstration_Event-based_Visual_Microphone_supp.zip)
-3. [E2P--Events to Polarization Reconstruction from PDAVIS Events](papers/2023CVPRW_Live_Demonstration_E2P_Events_to_Polarization_Reconstruction_from_PDAVIS_Events.pdf),  and [Suppl mat](papers/2023CVPRW_Live_Demonstration_E2P_Events_to_Polarization_Reconstruction_from_PDAVIS_Events_supp.zip), <b><a href="https://github.com/SensorsINI/e2p"><span style="color:tomato;">Code</span></a></b>
-4. [SCAMP-7](papers/2023CVPRW_Live_Demonstration_Scamp-7.pdf)
-5. [ANN vs SNN vs Hybrid Architectures for Event-based Real-time Gesture Recognition and Optical Flow Estimation](papers/2023CVPRW_Live_Demonstration_ANN_vs_SNN_vs_Hybrid_Architectures_for_Event-based_Real-time.pdf)
-6. [Tangentially Elongated Gaussian Belief Propagation for Event-based Incremental Optical Flow Estimation](papers/2023CVPRW_Live_Demonstration_TEGBP_for_Event-based_Incremental_Optical_Flow_Estimation.pdf), <b><a href="https://github.com/DensoITLab/tegbp"><span style="color:tomato;">Code</span></a></b>
-7. [Real-time Event-based Speed Detection using Spiking Neural Networks](papers/2023CVPRW_Live_Demonstration_Real-time_Event-based_Speed_Detection_using_Spiking_Neural_Networks.pdf)
-8. [Integrating Event-based Hand Tracking Into TouchFree Interactions](papers/2023CVPRW_Live_Demonstration_Integrating_Event-based_Hand_Tracking_Into_TouchFree_Interactions.pdf),  and [Suppl mat](papers/2023CVPRW_Live_Demonstration_Integrating_Event-based_Hand_Tracking_Into_TouchFree_Interactions_supp.zip)
-
-
-<a name="accepted-papers"></a>   
+<a name="courtesy-presentations"></a>   
 ## Courtesy Presentations (as posters, during session #2)
+**Poster boards 1 to 11.**
+
 1. [Event Collapse in Motion Estimation using Contrast Maximization](https://github.com/tub-rip/event_collapse), by [Shintaro Shiba](http://shibashintaro.com/), from Keio University and TU Berlin. <b><a href="papers/2023CVPRW_EventCollapse_and_OpticalFlow_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
 2. [Deep Asynchronous Graph Neural Networks for Events and Frames](https://danielgehrig18.github.io/), by [Daniel Gehrig](https://scholar.google.es/citations?user=FWpgbBsAAAAJ&hl=en), from the University of Zurich.
 3. [Animal behavior observation with event cameras](https://arxiv.org/abs/2207.07332), by [Friedhelm Hamann](https://www.scienceofintelligence.de/people/friedhelm-hamann/), from TU Berlin and the Science of Intelligence Excellence Cluster (SCIoI). <b><a href="papers/2023CVPRW_Poster_Animal_Observation.pdf"><span style="color:tomato;">Poster</span></a></b>
-4. [Learning to Estimate Two Dense Depths from LiDAR and Event Data](https://link.springer.com/chapter/10.1007/978-3-031-31438-4_34), by [Vincent Brebion](https://www.researchgate.net/profile/Vincent_Brebion) (Université de Technologie de Compiègne), Julien Moreau and Franck Davoine, SCIA 2023. [Project Page (suppl. material, poster, code, dataset, videos)](https://vbrebion.github.io/ALED/). [PDF](https://arxiv.org/abs/2302.14444)
-6. [Event-based shape from polarization](https://rpg.ifi.uzh.ch/esfp.html), by [Manasi Muglikar](https://manasi94.github.io/), from the University of Zurich, CVPR 2023.
-7. [ESS: Learning Event-based Semantic Segmentation from Still Images](https://github.com/uzh-rpg/ess), by [Nico Messikomer](https://messikommernico.github.io/), from the University of Zurich, ECCV 2022.
-8. [High-fidelity Event-Radiance Recovery via Transient Event Frequency](https://github.com/hjynwa/TEF), by [Jin Han](https://hjynwa.github.io/), Yuta Asano, [Boxin Shi](https://ci.idm.pku.edu.cn/), [Yinqiang Zheng](https://scholar.google.com/citations?user=JD-5DKcAAAAJ&hl), and [Imari Sato](https://scholar.google.com/citations?user=gtfbzYwAAAAJ), from the University of Tokyo, NII and Peking University, CVPR 2023.
+4. [Recurrent Vision Transformers for Object Detection with Event Cameras](https://github.com/uzh-rpg/RVT), by [Mathias Gehrig](https://scholar.google.es/citations?user=uTMjaVoAAAAJ&hl=en), from the University of Zurich, CVPR 2023.
+5. [Learning to Estimate Two Dense Depths from LiDAR and Event Data](https://link.springer.com/chapter/10.1007/978-3-031-31438-4_34), by [Vincent Brebion](https://www.researchgate.net/profile/Vincent_Brebion) (Université de Technologie de Compiègne), Julien Moreau and Franck Davoine, SCIA 2023. [Project Page (suppl. material, poster, code, dataset, videos)](https://vbrebion.github.io/ALED/). [PDF](https://arxiv.org/abs/2302.14444)
+6. [ESS: Learning Event-based Semantic Segmentation from Still Images](https://github.com/uzh-rpg/ess), by [Nico Messikomer](https://messikommernico.github.io/), from the University of Zurich, ECCV 2022.
+7. [Multi-event-camera Depth Estimation](https://github.com/tub-rip/dvs_mcemvs), by [Suman Ghosh](https://sumanghosh29.wixsite.com/sumanghosh), from TU Berlin. <b><a href="papers/2023CVPRW_MCEMVS_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
+8. [Event-based shape from polarization](https://rpg.ifi.uzh.ch/esfp.html), by [Manasi Muglikar](https://manasi94.github.io/), from the University of Zurich, CVPR 2023.
 9. [All-in-focus Imaging from Event Focal Stack](https://youtu.be/9HQLqj4cY7o), by Hanyue Lou, [Minggui Teng](https://tengminggui.cn/), Yixin Yang, and [Boxin Shi](https://ci.idm.pku.edu.cn/), CVPR 2023.
-11. [Recurrent Vision Transformers for Object Detection with Event Cameras](https://github.com/uzh-rpg/RVT), by [Mathias Gehrig](https://scholar.google.es/citations?user=uTMjaVoAAAAJ&hl=en), from the University of Zurich, CVPR 2023.
-12. [Event-aided Direct Sparse Odometry](https://rpg.ifi.uzh.ch/eds.html), by [Javier Hidalgo-Carrió](https://jhidalgocarrio.github.io/), from the University of Zurich. <b><a href="papers/2023CVPRW_EDS_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
-13. [Multi-event-camera Depth Estimation](https://github.com/tub-rip/dvs_mcemvs), by [Suman Ghosh](https://sumanghosh29.wixsite.com/sumanghosh), from TU Berlin. <b><a href="papers/2023CVPRW_MCEMVS_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
+10. [Event-aided Direct Sparse Odometry](https://rpg.ifi.uzh.ch/eds.html), by [Javier Hidalgo-Carrió](https://jhidalgocarrio.github.io/), from the University of Zurich. <b><a href="papers/2023CVPRW_EDS_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
+11. [High-fidelity Event-Radiance Recovery via Transient Event Frequency](https://github.com/hjynwa/TEF), by [Jin Han](https://hjynwa.github.io/), Yuta Asano, [Boxin Shi](https://ci.idm.pku.edu.cn/), [Yinqiang Zheng](https://scholar.google.com/citations?user=JD-5DKcAAAAJ&hl), and [Imari Sato](https://scholar.google.com/citations?user=gtfbzYwAAAAJ), from the University of Tokyo, NII and Peking University, CVPR 2023. <b><a href="papers/2023CVPRW_High-fidelity_Event-Radiance_Recovery_via_Transient_Event_Frequency_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
+
+<a name="accepted-papers"></a>   
+## Accepted Papers
+**Poster boards 11 + list index: 12, 13, 14, etc.**
+
+12. [M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset](papers/2023CVPRW_M3ED_Multi-Robot_Multi-Sensor_Multi-Environment_Event_Dataset.pdf), <b><a href="https://m3ed.io/"><span style="color:tomato;">Dataset</span></a></b>,  <b><a href="https://github.com/daniilidis-group/m3ed"><span style="color:tomato;">Code</span></a></b>
+13. [Asynchronous Events-based Panoptic Segmentation using Graph Mixer Neural Network](papers/2023CVPRW_Asynchronous_Events-based_Panoptic_Segmentation_using_Graph_Mixer_Neural_Network.pdf), and [Suppl mat](papers/2023CVPRW_Asynchronous_Events-based_Panoptic_Segmentation_using_Graph_Mixer_Neural_Network_supp.pdf),  <b><a href="https://github.com/sanket0707/GNN-Mixer.git"><span style="color:tomato;">Code and data</span></a></b>
+14. [Event-IMU fusion strategies for faster-than-IMU estimation throughput](papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput.pdf),  and [Suppl mat](papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput_supp.zip) 
+15. [Fast Trajectory End-Point Prediction with Event Cameras for Reactive Robot Control](papers/2023CVPRW_Fast_Trajectory_End-Point_Prediction_with_Event_Cameras_for_Reactive_Robot_Control.pdf),  and [Suppl mat](papers/2023CVPRW_Fast_Trajectory_End-Point_Prediction_with_Event_Cameras_for_Reactive_Robot_Control_supp.zip), <b><a href="https://github.com/event-driven-robotics/end-point-prediction"><span style="color:tomato;">Code</span></a></b>
+16. [Exploring Joint Embedding Architectures and Data Augmentations for Self-Supervised Representation Learning in Event-Based Vision](papers/2023CVPRW_Exploring_Joint_Embedding_Architectures_and_Data_Augmentations.pdf),  and [Suppl mat](papers/2023CVPRW_Exploring_Joint_Embedding_Architectures_and_Data_Augmentations_supp.zip), [Poster](papers/2023CVPRW_Exploring_Joint_Embedding_Architectures_and_Data_Augmentations_poster.pdf) <b><a href="https://github.com/Barchid/exploring_event_ssl"><span style="color:tomato;">Code</span></a></b>
+17. [Event-based Blur Kernel Estimation For Blind Motion Deblurring](papers/2023CVPRW_Event-based_Blur_Kernel_Estimation_For_Blind_Motion_Deblurring.pdf)
+18. [Neuromorphic Event-based Facial Expression Recognition](papers/2023CVPRW_Neuromorphic_Event-based_Facial_Expression_Recognition.pdf), <b><a href="https://github.com/miccunifi/NEFER"><span style="color:tomato;">Dataset</span></a></b>
+19. [Low-latency monocular depth estimation using event timing on neuromorphic
+hardware](papers/2023CVPRW_Low-latency_monocular_depth_estimation_using_event_timing_on_neuromorphic_hardware.pdf)
+20. [Frugal event data: how small is too small? A human performance assessment with shrinking data](papers/2023CVPRW_Frugal_event_data_How_small_is_too_small.pdf), <b><a href="papers/2023CVPRW_Frugal_event_data_How_small_is_too_small_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
+21. [Flow cytometry with event-based vision and spiking neuromorphic hardware](papers/2023CVPRW_Flow_cytometry_with_event-based_vision_and_spiking_neuromorphic_hardware.pdf),  <b><a href="https://github.com/stevenabreu7/dvs_flow"><span style="color:tomato;">Code</span></a></b>,  <b><a href="papers/2023CVPRW_Flow_cytometry_with_event-based_vision_and_spiking_neuromorphic_hardware_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
+22. [How Many Events Make an Object? Improving Single-frame Object Detection on the 1 Mpx Dataset](papers/2023CVPRW_How_Many_Events_Make_an_Object.pdf),  and [Suppl mat](papers/2023CVPRW_How_Many_Events_Make_an_Object_supp.pdf), <b><a href="https://github.com/boschresearch/ecod"><span style="color:tomato;">Code</span></a></b>
+23. [EVREAL: Towards a Comprehensive Benchmark and Analysis Suite for Event-based Video Reconstruction](papers/2023CVPRW_EVREAL_Towards_a_Comprehensive_Benchmark_and_Analysis_Suite_for_Event-based_Video_Reconstruction.pdf),  and [Suppl mat](papers/2023CVPRW_EVREAL_Towards_a_Comprehensive_Benchmark_and_Analysis_Suite_for_Event-based_Video_Reconstruction_supp.zip), <b><a href="https://ercanburak.github.io/evreal.html"><span style="color:tomato;">Code</span></a></b>, <b><a href="papers/2023CVPRW_EVREAL_Towards_a_Comprehensive_Benchmark_and_Analysis_Suite_for_Event-based_Video_Reconstruction_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
+24. [X-maps: Direct Depth Lookup for Event-based Structured Light Systems](papers/2023CVPRW_X-Maps_Direct_Depth_Lookup_for_Event-based_Structured_Light_Systems.pdf), and <a href="papers/2023CVPRW_X-Maps_Direct_Depth_Lookup_for_Event-based_Structured_Light_Systems_poster.pdf"><span style="color:tomato;">Poster</span></a>, <b><a href="https://github.com/fraunhoferhhi/X-maps"><span style="color:tomato;">Code</span></a></b>
+25. [PEDRo: an Event-based Dataset for Person Detection in Robotics](papers/2023CVPRW_PEDRo_An_Event-based_Dataset_for_Person_Detection_in_Robotics.pdf), <b><a href="https://github.com/SSIGPRO/PEDRo-Event-Based-Dataset"><span style="color:tomato;">Dataset</span></a></b>
+26. [Density Invariant Contrast Maximization for Neuromorphic Earth Observations](papers/2023CVPRW_Density_Invariant_Contrast_Maximization_for_Neuromorphic_Earth_Observations.pdf), and [Suppl mat](papers/2023CVPRW_Density_Invariant_Contrast_Maximization_for_Neuromorphic_Earth_Observations_supp.pdf),  <b><a href="https://github.com/neuromorphicsystems/event_warping"><span style="color:tomato;">Code</span></a></b>
+27. [Entropy Coding-based Lossless Compression of Asynchronous Event Sequences](papers/2023CVPRW_Entropy_Coding-based_Lossless_Compression_of_Asynchronous_Event_Sequences.pdf),  and [Suppl mat](papers/2023CVPRW_Entropy_Coding-based_Lossless_Compression_of_Asynchronous_Event_Sequences_supp.pdf), [Poster](papers/2023CVPRW_Entropy_Coding-based_Lossless_Compression_of_Asynchronous_Event_Sequences_poster.pdf)
+28. [MoveEnet: Online High-Frequency Human Pose Estimation with an Event Camera](papers/2023CVPRW_MoveEnet_Online_High-Frequency_Human_Pose_Estimation_with_an_Event_Camera.pdf),  and [Suppl mat](papers/2023CVPRW_MoveEnet_Online_High-Frequency_Human_Pose_Estimation_with_an_Event_Camera_supp.zip), <b><a href="https://github.com/event-driven-robotics/hpe-core"><span style="color:tomato;">Code</span></a></b>
+29. [Predictive Coding Light: learning compact visual codes by combining excitatory and inhibitory spike timing-dependent plasticity](papers/2023CVPRW_Predictive_Coding_Light.pdf)
+30. [Neuromorphic Optical Flow and Real-time Implementation with Event Cameras](papers/2023CVPRW_Neuromorphic_Optical_Flow_and_Real-time_Implementation_with_Event_Cameras.pdf),  and [Suppl mat](papers/2023CVPRW_Neuromorphic_Optical_Flow_and_Real-time_Implementation_with_Event_Cameras_supp.pdf), [Poster](papers/2023CVPRW_Neuromorphic_Optical_Flow_and_Real-time_Implementation_with_Event_Cameras_poster.pdf), <b><a href="https://youtu.be/jDGDxKabj0o"><span style="color:tomato;">Video</span></a></b>
+31. [HUGNet: Hemi-Spherical Update Graph Neural Network applied to low-latency event-based optical flow](papers/2023CVPRW_HUGNet_Hemi-Spherical_Update_Graph_Neural_Network_applied_to_low-latency_event-based_optical_flow.pdf),  and [Suppl mat](papers/2023CVPRW_HUGNet_Hemi-Spherical_Update_Graph_Neural_Network_applied_to_low-latency_event-based_optical_flow_supp.pdf)
+32. [End-to-end Neuromorphic Lip-reading](papers/2023CVPRW_End-to-end_Neuromorphic_Lip-reading.pdf), <b><a href="papers/2023CVPRW_End-to-end_Neuromorphic_Lip-reading_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
+33. [Sparse-E2VID: A Sparse Convolutional Model for Event-Based Video Reconstruction Trained with Real Event Noise](papers/2023CVPRW_Sparse-E2VID_A_Sparse_Convolutional_Model_for_Event-Based_Video_Reconstruction.pdf),  and [Suppl mat](papers/2023CVPRW_Sparse-E2VID_A_Sparse_Convolutional_Model_for_Event-Based_Video_Reconstruction_supp.zip), <b><a href="https://youtu.be/sFH9zp6kuWE"><span style="color:tomato;">Video</span></a></b>
+34. [Interpolation-Based Event Visual Data Filtering Algorithms](papers/2023CVPRW_Interpolation-Based_Event_Visual_Data_Filtering_Algorithms.pdf),  <b><a href="https://github.com/vision-agh/DVS_FilterInterpolation"><span style="color:tomato;">Code</span></a></b>
+35. [Within-Camera Multilayer Perceptron DVS Denoising](papers/2023CVPRW_Within-Camera_Multilayer_Perceptron_DVS_Denoising.pdf), [Suppl mat](papers/2023CVPRW_Within-Camera_Multilayer_Perceptron_DVS_Denoising_supp.pdf), <b><a href="https://github.com/SensorsINI/dnd_hls"><span style="color:tomato;">Code</span></a></b>, <b><a href="papers/2023CVPRW_Within-Camera_Multilayer_Perceptron_DVS_Denoising_poster.pdf"><span style="color:tomato;">Poster</span></a></b>
+36. [Shining light on the DVS pixel: A tutorial and discussion about biasing and optimization](papers/2023CVPRW_Shining_light_on_the_DVS_pixel_A_tutorial.pdf), <b><a href="https://docs.google.com/spreadsheets/d/1XaS3hkcjlbSG5gaMnlAy89rbsomILDgu/edit#gid=1310047800"><span style="color:tomato;">Tool</span></a></b>
+37. [PDAVIS: Bio-inspired Polarization Event Camera](papers/2023CVPRW_PDAVIS_Bio-inspired_Polarization_Event_Camera.pdf), [Suppl mat](papers/2023CVPRW_PDAVIS_Bio-inspired_Polarization_Event_Camera_supp.pdf), <b><a href="https://github.com/SensorsINI/e2p"><span style="color:tomato;">Code</span></a></b>
+
+
+## Live Demonstrations
+**Poster boards 37 + list index: 38, 39, 40, etc.**
+
+38. [E2P--Events to Polarization Reconstruction from PDAVIS Events](papers/2023CVPRW_Live_Demonstration_E2P_Events_to_Polarization_Reconstruction_from_PDAVIS_Events.pdf),  and [Suppl mat](papers/2023CVPRW_Live_Demonstration_E2P_Events_to_Polarization_Reconstruction_from_PDAVIS_Events_supp.zip), <b><a href="https://github.com/SensorsINI/e2p"><span style="color:tomato;">Code</span></a></b>
+39. [PINK: Polarity-based Anti-flicker for Event Cameras](papers/2023CVPRW_Live_Demonstration_PINK_Polarity-based_Anti-flicker_for_Event_Cameras.pdf), <b><a href="https://youtu.be/5UdU0PLZaf8"><span style="color:tomato;">Video</span></a></b>
+40. [Event-based Visual Microphone](papers/2023CVPRW_Live_Demonstration_Event-based_Visual_Microphone.pdf),  and [Suppl mat](papers/2023CVPRW_Live_Demonstration_Event-based_Visual_Microphone_supp.zip)
+42. [SCAMP-7](papers/2023CVPRW_Live_Demonstration_Scamp-7.pdf)
+43. [ANN vs SNN vs Hybrid Architectures for Event-based Real-time Gesture Recognition and Optical Flow Estimation](papers/2023CVPRW_Live_Demonstration_ANN_vs_SNN_vs_Hybrid_Architectures_for_Event-based_Real-time.pdf)
+45. [Tangentially Elongated Gaussian Belief Propagation for Event-based Incremental Optical Flow Estimation](papers/2023CVPRW_Live_Demonstration_TEGBP_for_Event-based_Incremental_Optical_Flow_Estimation.pdf), <b><a href="https://github.com/DensoITLab/tegbp"><span style="color:tomato;">Code</span></a></b>
+46. [Real-time Event-based Speed Detection using Spiking Neural Networks](papers/2023CVPRW_Live_Demonstration_Real-time_Event-based_Speed_Detection_using_Spiking_Neural_Networks.pdf)
+48. [Integrating Event-based Hand Tracking Into TouchFree Interactions](papers/2023CVPRW_Live_Demonstration_Integrating_Event-based_Hand_Tracking_Into_TouchFree_Interactions.pdf),  and [Suppl mat](papers/2023CVPRW_Live_Demonstration_Integrating_Event-based_Hand_Tracking_Into_TouchFree_Interactions_supp.zip)
+
 
 ## Objectives
 
@@ -190,6 +200,15 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
 - [Cornelia Fermüller](http://users.umiacs.umd.edu/~fer), University of Maryland, USA.
 - [Davide Migliore](https://www.linkedin.com/in/davidemigliore), [Prophesee](https://www.prophesee.ai/), France.
 
+## Important Dates
+
+- Paper submission deadline: ~~March 20, 2023 (23:59h PST).  [Submission website (CMT)](https://cmt3.research.microsoft.com/EVENTVISION2023)~~
+- Demo abstract submission: ~~March 20, 2023 (23:59h PST)~~
+- Notification to authors: ~~April 3, 2023~~
+- Camera-ready paper: ~~April 14, 2023 (deadline by IEEE)~~
+- ~~[Early-bird registration **April 30th** (23:59h ET)](https://cvpr2023.thecvf.com/Conferences/2023/Pricing2)~~
+- Standard registration begins May 1st.
+- <b>Workshop day: **June 19, 2023. 2nd day of CVPR**. Full day workshop.</b>
 
 ## FAQs
 <ul>
@@ -203,6 +222,11 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
   <li><b>What are possible applications of the scamp sensor?</b> Some applications can be found <a href="https://personalpages.manchester.ac.uk/staff/p.dudek/scamp/default.htm#Applications">here</a>.</li>
   <li><b>Where can I buy a SCAMP sensor?</b> It is not commercially available. Contact Prof. <a href="https://personalpages.manchester.ac.uk/staff/p.dudek/pdudek.htm">Piotr Dudek</a>.</li>
   <li><b>Where can I find more information?</b> Check out this <a href="https://github.com/uzh-rpg/event-based_vision_resources">List of Event-based Vision Resources</a>.</li>
+</ul>
+
+## Upcoming Related Workshops
+<ul>
+  <li><a href="slides/2023-11_Workshop_event_cameras_Sorbonne.pdf.pdf">Caméra à événements appliquée à la robotique</a>, Sorbonne University, Paris (Nov. 16th, 2023).</li>
 </ul>
 
 ## Past Related Workshops
