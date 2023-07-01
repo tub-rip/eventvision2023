@@ -65,7 +65,7 @@ All posters must go up at 10:10 h and be taken down at 13:30 h.
 * [Cornelia Fermüller (University of Maryland)](https://scholar.google.ch/citations?user=0gEOJSEAAAAJ&hl=en). [NeuroPAC](https://www.neuropac.info/)
 * [Kenneth Chaney and Fernando Cladera (Kostas Daniilidis' Lab, University of Pennsylvania)](https://m3ed.io/index.html)
 * [Daniel Gehrig (Davide Scaramuzza's Lab, University of Zurich)](https://danielgehrig18.github.io/)
-* [Guillermo Gallego (TU Berlin, ECDF, SCIoI)](https://sites.google.com/view/guillermogallego/research/event-based-vision)
+* [Guillermo Gallego (TU Berlin, ECDF, SCIoI)](https://sites.google.com/view/guillermogallego/research/event-based-vision). <b><a href="slides/CVPRW2023_Guillermo_Gallego.pdf"><span style="color:tomato;">Slides</span></a></b>
 * [Boxin Shi (Peking University)](https://ci.idm.pku.edu.cn/): NeuCAP: Neuromorphic Camera Aided Photography. <b><a href="slides/2023CVPRW_Shi_NeuCamAidedPhoto.pdf"><span style="color:tomato;">Slides</span></a></b>
 
 ### Session #4 (16:00 h, Vancouver time)
