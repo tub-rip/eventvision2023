@@ -207,7 +207,7 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
 - Notification to authors: ~~April 3, 2023~~
 - Camera-ready paper: ~~April 14, 2023 (deadline by IEEE)~~
 - ~~[Early-bird registration **April 30th** (23:59h ET)](https://cvpr2023.thecvf.com/Conferences/2023/Pricing2)~~
-- Standard registration begins May 1st.
+- ~~Standard registration begins May 1st.~~
 - <b>Workshop day: **June 19, 2023. 2nd day of CVPR**. Full day workshop.</b>
 
 ## FAQs
@@ -226,7 +226,7 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
 
 ## Upcoming Related Workshops
 <ul>
-  <li><a href="slides/2023-11_Workshop_event_cameras_Sorbonne.pdf.pdf">Caméra à événements appliquée à la robotique</a>, Sorbonne University, Paris (Nov. 16th, 2023).</li>
+  <li><a href="slides/2023-11_Workshop_event_cameras_Sorbonne.pdf">Caméra à événements appliquée à la robotique</a>, Sorbonne University, Paris (Nov. 16th, 2023).</li>
 </ul>
 
 ## Past Related Workshops
