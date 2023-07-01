@@ -11,6 +11,8 @@ Many thanks to all who contributed and made this workshop possible!
 
 ## <span style="color:tomato;">[Photo Album of the Workshop](https://photos.app.goo.gl/z5gMLG2AF6U5qHcY7)</span>
 
+## <span style="color:tomato;">[Videos! YouTube Playlist](https://www.youtube.com/playlist?list=PLeXWz-g2If96iotpzgBNNTr9VA6hG-LLK)</span>
+
 <!--
 ## <span style="color:tomato;">[Introduction slides](https://docs.google.com/presentation/d/1qPRGIAz6ZRtJmVEYhfHjJZZc5I9F45Rvz4zjbyktWVw/edit?usp=sharing)</span>
 -->
@@ -36,7 +38,7 @@ Time (local) | Session
 13:30 | Session 3: Applications, Algorithms and Architectures (Invited speakers)
 15:30 | Coffee break
 16:00 | Session 4: Industrial Session (Invited speakers).
-17:45 | [Award ceremony](https://docs.google.com/presentation/d/1DF2-hyGVP2G1wgXJC-n8yF2lZMf3633YOyjT-h_dKVs/edit?usp=sharing)
+17:45 | [Award ceremony](https://docs.google.com/presentation/d/1DF2-hyGVP2G1wgXJC-n8yF2lZMf3633YOyjT-h_dKVs/edit?usp=sharing), [Video](https://youtu.be/vEcZbdyC6gM)
 18:00 | End
 
 <!--
@@ -51,10 +53,10 @@ Time (local) | Session
 -->
 
 ### Session #1 (8:00 h, Vancouver time)
-* [Kaushik Roy (Purdue University)](https://scholar.google.com/citations?hl=en&user=to4P8KgAAAAJ&view_op=list_works&sortby=pubdate): Re-thinking Computing with Neuro-Inspired Learning: Algorithms, Sensors, and Hardware Architecture.
-* [Ryad Benosman (Meta)](https://scholar.google.ch/citations?user=_ZTFUooAAAAJ&hl=en&oi=sra): The Interplay Between Events and Frames: A Comprehensive Explanation
-* [Katie Schuman (University of Tennessee)](https://catherineschuman.com/): A Workflow for Low-Power Neuromorphic Computing for Event-Based Vision Applications.
-* [Andre van Schaik (Western Sydney University)](https://scholar.google.com/citations?user=Ud0G048AAAAJ&hl=en): Applications of event-based vision at the International Centre for Neuromorphic Systems
+* [Kaushik Roy (Purdue University)](https://scholar.google.com/citations?hl=en&user=to4P8KgAAAAJ&view_op=list_works&sortby=pubdate): Re-thinking Computing with Neuro-Inspired Learning: Algorithms, Sensors, and Hardware Architecture. <b><a href="https://youtu.be/Bx7jtVBFGlI"><span style="color:tomato;">Video</span></a></b>
+* [Ryad Benosman (Meta)](https://scholar.google.ch/citations?user=_ZTFUooAAAAJ&hl=en&oi=sra): The Interplay Between Events and Frames: A Comprehensive Explanation. <b><a href="https://youtu.be/skPW4igKWOo"><span style="color:tomato;">Video</span></a></b>
+* [Katie Schuman (University of Tennessee)](https://catherineschuman.com/): A Workflow for Low-Power Neuromorphic Computing for Event-Based Vision Applications. <b><a href="https://youtu.be/Qyvj98ugkDs"><span style="color:tomato;">Video</span></a></b>
+* [Andre van Schaik (Western Sydney University)](https://scholar.google.com/citations?user=Ud0G048AAAAJ&hl=en): Applications of Event-based Vision at the International Centre for Neuromorphic Systems. <b><a href="https://youtu.be/z0Fd_B8TrNk"><span style="color:tomato;">Video</span></a></b>
 
 ### Session #2 (10:30 h, Vancouver time)
 * <b>Poster session</b>. Accepted papers, demos and courtesy presentations. See links below.
@@ -62,21 +64,22 @@ Time (local) | Session
 All posters must go up at 10:10 h and be taken down at 13:30 h.
 
 ### Session #3 (13:30 h, Vancouver time)
-* [Felix Heide (Princeton)](https://www.cs.princeton.edu/~fheide/): Neural nano-optics.
-* [Arren Glover (Italian Institute of Technology)](https://www.iit.it/people/arren-glover): Real-time, Speed-invariant, Vision for Robotics. <b><a href="slides/2023CVPRW_Glover_novideo.pdf"><span style="color:tomato;">Slides</span></a></b>
-* [Cornelia Fermüller (University of Maryland)](https://scholar.google.ch/citations?user=0gEOJSEAAAAJ&hl=en). [NeuroPAC](https://www.neuropac.info/)
-* [Kenneth Chaney and Fernando Cladera (Kostas Daniilidis' Lab, University of Pennsylvania)](https://m3ed.io/index.html)
-* [Daniel Gehrig (Davide Scaramuzza's Lab, University of Zurich)](https://danielgehrig18.github.io/)
-* [Guillermo Gallego (TU Berlin, ECDF, SCIoI)](https://sites.google.com/view/guillermogallego/research/event-based-vision). <b><a href="slides/CVPRW2023_Guillermo_Gallego.pdf"><span style="color:tomato;">Slides</span></a></b>
-* [Boxin Shi (Peking University)](https://ci.idm.pku.edu.cn/): NeuCAP: Neuromorphic Camera Aided Photography. <b><a href="slides/2023CVPRW_Shi_NeuCamAidedPhoto.pdf"><span style="color:tomato;">Slides</span></a></b>
+* [Felix Heide (Princeton University)](https://www.cs.princeton.edu/~fheide/): Neural Nanophotonic Cameras. <b><a href="https://youtu.be/gBBc4cVc44Q"><span style="color:tomato;">Video</span></a></b>
+* [Arren Glover (Italian Institute of Technology)](https://www.iit.it/people/arren-glover): Real-time, Speed-invariant, Vision for Robotics. <b><a href="https://youtu.be/Ff6Xj_zriqc"><span style="color:tomato;">Video</span></a></b>, <b><a href="slides/2023CVPRW_Glover_novideo.pdf"><span style="color:tomato;">Slides</span></a></b>
+* [NeuroPAC](https://www.neuropac.info/). <b><a href="https://youtu.be/3mzNeLgB_mI"><span style="color:tomato;">Video</span></a></b>
+* [Cornelia Fermüller (University of Maryland)](https://scholar.google.ch/citations?user=0gEOJSEAAAAJ&hl=en): When do neuromorphic sensors outperform cameras? Learning from dynamic features. <b><a href="https://youtu.be/sSnV7TuMMk4"><span style="color:tomato;">Video</span></a></b>
+* [Daniel Gehrig (Scaramuzza's Lab, University of Zurich)](https://danielgehrig18.github.io/): Efficient event processing with geometric deep learning. <b><a href="https://youtu.be/V6uGnuznIg4"><span style="color:tomato;">Video</span></a></b>
+* [Guillermo Gallego (TU Berlin, ECDF, SCIoI)](https://sites.google.com/view/guillermogallego/research/event-based-vision): Event-based Robot Vision for Autonomous Systems and Animal Observation. <b><a href="https://youtu.be/31bfaACIotA"><span style="color:tomato;">Video</span></a></b>. <b><a href="slides/CVPRW2023_Guillermo_Gallego.pdf"><span style="color:tomato;">Slides</span></a></b>
+* [Kenneth Chaney and Fernando Cladera (Daniilidis' Lab, University of Pennsylvania)](https://m3ed.io/index.html): M3ED: Multi-robot, Multi-Sensor, Multi-Environment Event Dataset. <b><a href="https://youtu.be/0krz1q6WCyA"><span style="color:tomato;">Video</span></a></b>
+* [Boxin Shi (Peking University)](https://ci.idm.pku.edu.cn/): NeuCAP: Neuromorphic Camera Aided Photography. <b><a href="https://youtu.be/sHHMJdDLCKc"><span style="color:tomato;">Video</span></a></b>, <b><a href="slides/2023CVPRW_Shi_NeuCamAidedPhoto.pdf"><span style="color:tomato;">Slides</span></a></b>
 
 ### Session #4 (16:00 h, Vancouver time)
-* [Yulia Sandamirskaya and Andreas Wild (Intel Labs)](https://www.intel.com/content/www/us/en/research/neuromorphic-computing.html)
-* [Kynan Eng (iniVation)](https://inivation.com/): Reimagining neuromorphic event-based vision
-* [Atsumi Niwa (Sony)](https://www.linkedin.com/in/atsumi-niwa-a1227692/): Event-based Vision Sensor and On-chip Processing Development. <b><a href="https://docs.google.com/presentation/d/1XrubklM7Z7Rl1zpOWnNUKOFuSFVi9QJO/edit?usp=sharing&ouid=107010905684016788580&rtpof=true&sd=true"><span style="color:tomato;">Slides</span></a></b>
-* [Andreas Suess (OmniVision Technologies)](https://www.linkedin.com/in/andreas-suess-03a510162/): Towards hybrid event/image vision
-* [Nandan Nayampally (Brainchip)](https://brainchip.com/): Enabling Ultra-Low Power Edge Inference and On-Device Learning with Akida.
-* [Christoph Posch (Prophesee)](https://www.prophesee.ai/): Event sensors for embedded AI vision applications
+* [Yulia Sandamirskaya and Andreas Wild (Intel Labs)](https://www.intel.com/content/www/us/en/research/neuromorphic-computing.html): Visual Processing with Loihi 2. <b><a href="https://youtu.be/tbq_c5THUuM"><span style="color:tomato;">Video</span></a></b>
+* [Kynan Eng (iniVation)](https://inivation.com/): Beyond Frames and Events: Next Generation Visual Sensing. <b><a href="https://youtu.be/tv-GqKg4Mak"><span style="color:tomato;">Video</span></a></b>
+* [Atsumi Niwa (SONY)](https://www.linkedin.com/in/atsumi-niwa-a1227692/): Event-based Vision Sensor and On-chip Processing Development. <b><a href="https://youtu.be/_2GNcxGcqbU"><span style="color:tomato;">Video</span></a></b>, <b><a href="https://docs.google.com/presentation/d/1XrubklM7Z7Rl1zpOWnNUKOFuSFVi9QJO/edit?usp=sharing&ouid=107010905684016788580&rtpof=true&sd=true"><span style="color:tomato;">Slides</span></a></b>
+* [Andreas Suess (OmniVision Technologies)](https://www.linkedin.com/in/andreas-suess-03a510162/): Towards hybrid event/image vision. <b><a href="https://youtu.be/IAfaieVqvzY"><span style="color:tomato;">Video</span></a></b>
+* [Nandan Nayampally (Brainchip)](https://brainchip.com/): Enabling Ultra-Low Power Edge Inference and On-Device Learning with Akida. <b><a href="https://youtu.be/aZr_F-Ne75k"><span style="color:tomato;">Video</span></a></b>
+* [Christoph Posch (Prophesee)](https://www.prophesee.ai/): Event sensors for embedded AI vision applications. <b><a href="https://youtu.be/wRWCwJBF534"><span style="color:tomato;">Video</span></a></b>
 
 <a name="courtesy-presentations"></a>   
 ## Courtesy Presentations (as posters, during session #2)
