@@ -9,6 +9,8 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
 ![group photo by S. Shiba](/images/CVPRW2023_EventVision_group_picture.jpg)
 Many thanks to all who contributed and made this workshop possible!
 
+## <span style="color:tomato;">[Photo Album of the Workshop](https://photos.app.goo.gl/z5gMLG2AF6U5qHcY7)</span>
+
 <!--
 ## <span style="color:tomato;">[Introduction slides](https://docs.google.com/presentation/d/1qPRGIAz6ZRtJmVEYhfHjJZZc5I9F45Rvz4zjbyktWVw/edit?usp=sharing)</span>
 -->
