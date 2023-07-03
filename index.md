@@ -19,7 +19,7 @@ Many thanks to all who contributed and made this workshop possible!
 
 ## Speakers
 ![imagen](/images/workshop_speakers_2023.jpg)
- 
+
 ## Location: Hybrid
 - On site (Vancouver Convention Center): Room <b>West 209</b>
 - [Virtual: see CVPR virtual platform for zoom link](https://cvpr2023.thecvf.com/virtual/2023/workshop/18456)
@@ -43,24 +43,24 @@ Time (local) | Session
 
 <!--
 - Session 1: Event-based cameras and neuromorphic computing (Invited speakers)
-  - Coffee break 
+  - Coffee break
 - Session 2: Poster session: contributed papers and courtesy presentations (as posters). Live Demonstrations.
   - Lunch break
 - Session 3: Applications, Algorithms and Architectures (Invited speakers)
-  - Coffee break 
+  - Coffee break
 - Session 4: Industrial Session (Invited speakers).
 - Award Ceremony and Final Panel Discussion.
 -->
 
 ### Session #1 (8:00 h, Vancouver time)
 * [Kaushik Roy (Purdue University)](https://scholar.google.com/citations?hl=en&user=to4P8KgAAAAJ&view_op=list_works&sortby=pubdate): Re-thinking Computing with Neuro-Inspired Learning: Algorithms, Sensors, and Hardware Architecture. <b><a href="https://youtu.be/Bx7jtVBFGlI"><span style="color:tomato;">Video</span></a></b>
-* [Ryad Benosman (Meta)](https://scholar.google.ch/citations?user=_ZTFUooAAAAJ&hl=en&oi=sra): The Interplay Between Events and Frames: A Comprehensive Explanation. <b><a href="https://youtu.be/skPW4igKWOo"><span style="color:tomato;">Video</span></a></b>
+* [Ryad Benosman (Meta)](https://scholar.google.ch/citations?user=_ZTFUooAAAAJ&hl=en&oi=sra): The Interplay Between Events and Frames: A Comprehensive Explanation. <b><a href="https://youtu.be/skPW4igKWOo"><span style="color:tomato;">Video</span></a></b>. <b><a href="slides/2023CVPRW_Ryad_Benosman.pdf"><span style="color:tomato;">Slides</span></a></b>
 * [Katie Schuman (University of Tennessee)](https://catherineschuman.com/): A Workflow for Low-Power Neuromorphic Computing for Event-Based Vision Applications. <b><a href="https://youtu.be/Qyvj98ugkDs"><span style="color:tomato;">Video</span></a></b>
 * [Andre van Schaik (Western Sydney University)](https://scholar.google.com/citations?user=Ud0G048AAAAJ&hl=en): Applications of Event-based Vision at the International Centre for Neuromorphic Systems. <b><a href="https://youtu.be/z0Fd_B8TrNk"><span style="color:tomato;">Video</span></a></b>
 
 ### Session #2 (10:30 h, Vancouver time)
 * <b>Poster session</b>. Accepted papers, demos and courtesy presentations. See links below.
-* <b>Posters #1 to #49 in the West exhibit hall</b> are booked for this workshop from 10:10 to 13:30 h. 
+* <b>Posters #1 to #49 in the West exhibit hall</b> are booked for this workshop from 10:10 to 13:30 h.
 All posters must go up at 10:10 h and be taken down at 13:30 h.
 
 ### Session #3 (13:30 h, Vancouver time)
@@ -103,7 +103,7 @@ All posters must go up at 10:10 h and be taken down at 13:30 h.
 
 12. [M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset](papers/2023CVPRW_M3ED_Multi-Robot_Multi-Sensor_Multi-Environment_Event_Dataset.pdf), <b><a href="https://m3ed.io/"><span style="color:tomato;">Dataset</span></a></b>,  <b><a href="https://github.com/daniilidis-group/m3ed"><span style="color:tomato;">Code</span></a></b>
 13. [Asynchronous Events-based Panoptic Segmentation using Graph Mixer Neural Network](papers/2023CVPRW_Asynchronous_Events-based_Panoptic_Segmentation_using_Graph_Mixer_Neural_Network.pdf), and [Suppl mat](papers/2023CVPRW_Asynchronous_Events-based_Panoptic_Segmentation_using_Graph_Mixer_Neural_Network_supp.pdf),  <b><a href="https://github.com/sanket0707/GNN-Mixer.git"><span style="color:tomato;">Code and data</span></a></b>
-14. [Event-IMU fusion strategies for faster-than-IMU estimation throughput](papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput.pdf),  and [Suppl mat](papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput_supp.zip) 
+14. [Event-IMU fusion strategies for faster-than-IMU estimation throughput](papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput.pdf),  and [Suppl mat](papers/2023CVPRW_Event-IMU_fusion_strategies_for_faster-than-IMU_estimation_throughput_supp.zip)
 15. [Fast Trajectory End-Point Prediction with Event Cameras for Reactive Robot Control](papers/2023CVPRW_Fast_Trajectory_End-Point_Prediction_with_Event_Cameras_for_Reactive_Robot_Control.pdf),  and [Suppl mat](papers/2023CVPRW_Fast_Trajectory_End-Point_Prediction_with_Event_Cameras_for_Reactive_Robot_Control_supp.zip), <b><a href="https://github.com/event-driven-robotics/end-point-prediction"><span style="color:tomato;">Code</span></a></b>
 16. [Exploring Joint Embedding Architectures and Data Augmentations for Self-Supervised Representation Learning in Event-Based Vision](papers/2023CVPRW_Exploring_Joint_Embedding_Architectures_and_Data_Augmentations.pdf),  and [Suppl mat](papers/2023CVPRW_Exploring_Joint_Embedding_Architectures_and_Data_Augmentations_supp.zip), [Poster](papers/2023CVPRW_Exploring_Joint_Embedding_Architectures_and_Data_Augmentations_poster.pdf) <b><a href="https://github.com/Barchid/exploring_event_ssl"><span style="color:tomato;">Code</span></a></b>
 17. [Event-based Blur Kernel Estimation For Blind Motion Deblurring](papers/2023CVPRW_Event-based_Blur_Kernel_Estimation_For_Blind_Motion_Deblurring.pdf)
@@ -163,7 +163,7 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
 - Novel hardware (cameras, neuromorphic processors, etc.) and/or software platforms, such as fully event-based systems (end-to-end).
 - New trends and challenges in event-based and/or biologically-inspired vision (SNNs, etc.).
 - Event-based vision for computational photography.
-- A longer list of related topics is available in the table of content of the [List of Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources) 
+- A longer list of related topics is available in the table of content of the [List of Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)
 
 <!--
 ## Call for Papers
@@ -172,7 +172,7 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
   Research papers and demos are solicited in, but not limited to, the topics listed above.
 </div></p>
 
-  - <b>Paper</b> submissions must adhere to the CVPR 2023 paper submission style, format and length restrictions. 
+  - <b>Paper</b> submissions must adhere to the CVPR 2023 paper submission style, format and length restrictions.
   See the <a href="https://cvpr2023.thecvf.com/Conferences/2023/AuthorGuidelines">author guidelines</a> and <a href="https://media.icml.cc/Conferences/CVPR2023/cvpr2023-author_kit-v1_1-1.zip">template</a> provided by the CVPR 2023 main conference. See also the policy of <a href="https://iccv2023.thecvf.com/policies-361500-2-20-15.php">Dual/Double Submissions of concurrently-reviewed conferences, such as ICCV</a>.  
   - For <b>demo</b> abstract submission, authors are encouraged to submit an abstract of up to 2 pages using the same template as CVPR 2023 paper submissions.
 
@@ -182,10 +182,10 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
   For the accepted papers we encourage authors to write a paragraph about ethical considerations and impact of their work.
 </div></p>
 
-### Courtesy presentations (in the poster session) 
+### Courtesy presentations (in the poster session)
 <div style="text-align: justify">
-  We also invite courtesy presentations of papers relevant to the workshop that are accepted at CVPR main conference or at other peer-reviewed conferences or journals. 
-  These presentations provide visibility to your work and help building a community around the topics of the workshop. These contributions will be checked for relevance to the workshop, but will not undergo a complete review, and will not be published in the workshop proceedings. 
+  We also invite courtesy presentations of papers relevant to the workshop that are accepted at CVPR main conference or at other peer-reviewed conferences or journals.
+  These presentations provide visibility to your work and help building a community around the topics of the workshop. These contributions will be checked for relevance to the workshop, but will not undergo a complete review, and will not be published in the workshop proceedings.
   Please contact the organizers to make arrangements to showcase your work at the workshop.  
 </div>
 -->
@@ -201,7 +201,7 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
 
 - [Guillermo Gallego](http://www.guillermogallego.es), TU Berlin, Einstein Center Digital Future, [Science of Intelligence Excellence Cluster (SCIoI)](https://www.scienceofintelligence.de/), Germany.
 - [Davide Scaramuzza](http://rpg.ifi.uzh.ch/people_scaramuzza.html), University of Zurich, Switzerland.
-- [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas), University of Pennsylvania, USA. 
+- [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas), University of Pennsylvania, USA.
 - [Cornelia Fermüller](http://users.umiacs.umd.edu/~fer), University of Maryland, USA.
 - [Davide Migliore](https://www.linkedin.com/in/davidemigliore), [Prophesee](https://www.prophesee.ai/), France.
 
@@ -260,6 +260,6 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
   <li><a href="http://capocaccia.iniforum.ch">Capo Caccia Workshops toward Cognitive Neuromorphic Engineering</a>.</li>
 </ul>
 
-## Supported by 
+## Supported by
 
 <a href="https://www.scienceofintelligence.de"><img src="images/ScioI_Logo_L.svg" width="348"></a>
