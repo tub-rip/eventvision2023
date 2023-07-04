@@ -53,7 +53,7 @@ Time (local) | Session
 -->
 
 ### Session #1 (8:00 h, Vancouver time)
-* [Kaushik Roy (Purdue University)](https://scholar.google.com/citations?hl=en&user=to4P8KgAAAAJ&view_op=list_works&sortby=pubdate): Re-thinking Computing with Neuro-Inspired Learning: Algorithms, Sensors, and Hardware Architecture. <b><a href="https://youtu.be/ONXg4irpIbc"><span style="color:tomato;">Video</span></a></b>
+* [Kaushik Roy (Purdue University)](https://scholar.google.com/citations?hl=en&user=to4P8KgAAAAJ&view_op=list_works&sortby=pubdate): Re-thinking Computing with Neuro-Inspired Learning: Algorithms, Sensors, and Hardware Architecture. <b><a href="https://youtu.be/ONXg4irpIbc"><span style="color:tomato;">Video</span></a></b>, <b><a href="slides/2023CVPRW_Kaushik_Roy.pdf"><span style="color:tomato;">Slides</span></a></b>
 * [Ryad Benosman (Meta)](https://scholar.google.ch/citations?user=_ZTFUooAAAAJ&hl=en&oi=sra): The Interplay Between Events and Frames: A Comprehensive Explanation. <b><a href="https://youtu.be/skPW4igKWOo"><span style="color:tomato;">Video</span></a></b>, <b><a href="slides/2023CVPRW_Ryad_Benosman.pdf"><span style="color:tomato;">Slides</span></a></b>
 * [Katie Schuman (University of Tennessee)](https://catherineschuman.com/): A Workflow for Low-Power Neuromorphic Computing for Event-Based Vision Applications. <b><a href="https://youtu.be/Qyvj98ugkDs"><span style="color:tomato;">Video</span></a></b>
 * [Andre van Schaik (Western Sydney University)](https://scholar.google.com/citations?user=Ud0G048AAAAJ&hl=en): Applications of Event-based Vision at the International Centre for Neuromorphic Systems. <b><a href="https://youtu.be/z0Fd_B8TrNk"><span style="color:tomato;">Video</span></a></b>
