@@ -6,7 +6,7 @@ Held in conjunction with the [IEEE Conference on Computer Vision and Pattern Rec
 
 <b>Welcome to the 4th International Workshop on Event-Based Vision!</b>  
 
-![group photo by S. Shiba](/images/CVPRW2023_EventVision_group_picture.jpg)
+[![group photo by S. Shiba](/images/CVPRW2023_EventVision_group_picture.jpg)](https://photos.app.goo.gl/z5gMLG2AF6U5qHcY7)
 Many thanks to all who contributed and made this workshop possible!
 
 ## <span style="color:tomato;">[Photo Album of the Workshop](https://photos.app.goo.gl/z5gMLG2AF6U5qHcY7)</span>
