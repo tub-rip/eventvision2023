@@ -254,7 +254,8 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
 
 ## Upcoming Related Workshops
 <ul>
-  <li><a href="slides/2023-11_Workshop_event_cameras_Sorbonne.pdf">Caméra à événements appliquée à la robotique</a>, Sorbonne University, Paris (Nov. 16th, 2023).</li>
+  <li><a href="https://www.gdr-isis.fr/index.php/reunion/499/">Caméra à événements appliquée à la robotique</a>, Sorbonne University, Paris (Nov. 16th, 2023).
+  <a href="slides/2023-11_Workshop_event_cameras_Sorbonne.pdf">Announcement</a></li>
 </ul>
 
 ## Past Related Workshops
