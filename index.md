@@ -46,17 +46,6 @@ Time (local) | Session
 -->
 
 <!--
-- Session 1: Event-based cameras and neuromorphic computing (Invited speakers)
-  - Coffee break
-- Session 2: Poster session: contributed papers and courtesy presentations (as posters). Live Demonstrations.
-  - Lunch break
-- Session 3: Applications, Algorithms and Architectures (Invited speakers)
-  - Coffee break
-- Session 4: Industrial Session (Invited speakers).
-- Award Ceremony and Final Panel Discussion.
--->
-
-<!--
 ### Session #1 (8:00 h, Vancouver time)
 * [Kaushik Roy (Purdue University)](https://scholar.google.com/citations?hl=en&user=to4P8KgAAAAJ&view_op=list_works&sortby=pubdate): Re-thinking Computing with Neuro-Inspired Learning: Algorithms, Sensors, and Hardware Architecture. <b><a href="https://youtu.be/ONXg4irpIbc"><span style="color:tomato;">Video</span></a></b>, <b><a href="slides/2023CVPRW_Kaushik_Roy.pdf"><span style="color:tomato;">Slides</span></a></b>
 * [Ryad Benosman (Meta)](https://scholar.google.ch/citations?user=_ZTFUooAAAAJ&hl=en&oi=sra): The Interplay Between Events and Frames: A Comprehensive Explanation. <b><a href="https://youtu.be/skPW4igKWOo"><span style="color:tomato;">Video</span></a></b>, <b><a href="slides/2023CVPRW_Ryad_Benosman.pdf"><span style="color:tomato;">Slides</span></a></b>
@@ -108,7 +97,7 @@ All posters must go up at 10:10 h and be taken down at 13:30 h.
       <td style="background-color:rgb(233, 252, 233);">
         <b> Welcome and Organization</b>.
         <b><a href="https://youtu.be/V0OXHBv5TsM"><span style="color:tomato;">Video</span></a></b>,
-        <b><a href="https://docs.google.com/presentation/d/1qPRGIAz6ZRtJmVEYhfHjJZZc5I9F45Rvz4zjbyktWVw/edit?usp=sharing"> Slides</a></b>
+        <b><a href="https://docs.google.com/presentation/d/1qPRGIAz6ZRtJmVEYhfHjJZZc5I9F45Rvz4zjbyktWVw/edit?usp=sharing"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
     <tr>
@@ -277,9 +266,9 @@ All posters must go up at 10:10 h and be taken down at 13:30 h.
     <tr>
       <td style="background-color:rgb(233, 252, 233);">17:50</td>
       <td style="background-color:rgb(233, 252, 233);">
-        <b> Welcome and Organization</b>.
+        <b> Award Ceremony</b>.
         <b><a href="https://youtu.be/vEcZbdyC6gM"><span style="color:tomato;">Video</span></a></b>, 
-        <b><a href="https://docs.google.com/presentation/d/1DF2-hyGVP2G1wgXJC-n8yF2lZMf3633YOyjT-h_dKVs/edit?usp=sharing"> Slides</a></b>
+        <b><a href="https://docs.google.com/presentation/d/1DF2-hyGVP2G1wgXJC-n8yF2lZMf3633YOyjT-h_dKVs/edit?usp=sharing"><span style="color:tomato;">Slides</span></a></b>
       </td>
     </tr>
   </tbody>
