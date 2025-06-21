@@ -474,3 +474,7 @@ This workshop is dedicated to event-based cameras, smart cameras, and algorithms
 ## Supported by
 
 <a href="https://www.scienceofintelligence.de"><img src="images/ScioI_Logo_L.svg" width="348"></a>
+
+## Ack
+
+The <a href="https://cmt3.research.microsoft.com">Microsoft CMT service</a> was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
