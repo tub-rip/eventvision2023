@@ -159,7 +159,7 @@ All posters must go up at 10:10 h and be taken down at 13:30 h.
       </td>
     </tr>
     <tr>
-      <td>13:55</td>
+      <td>14:00</td>
       <td><a href="https://www.iit.it/people/arren-glover">Arren Glover (Italian Institute of Technology)</a>.
         Real-time, Speed-invariant, Vision for Robotics. 
         <b><a href="https://youtu.be/Ff6Xj_zriqc"><span style="color:tomato;">Video</span></a></b>, 
@@ -167,13 +167,13 @@ All posters must go up at 10:10 h and be taken down at 13:30 h.
       </td>
     </tr>
     <tr>
-      <td>14:20</td>
+      <td>14:30</td>
       <td><a href="https://www.neuropac.info/">NeuroPAC</a>.
         <b><a href="https://youtu.be/3mzNeLgB_mI"><span style="color:tomato;">Video</span></a></b> 
       </td>
     </tr>
     <tr>
-      <td>14:25</td>
+      <td>14:35</td>
       <td><a href="https://scholar.google.ch/citations?user=0gEOJSEAAAAJ&hl=en">Cornelia Fermüller (University of Maryland)</a>.
         When do neuromorphic sensors outperform cameras? Learning from dynamic features.
         <b><a href="https://youtu.be/sSnV7TuMMk4"><span style="color:tomato;">Video</span></a></b>, 
@@ -181,7 +181,7 @@ All posters must go up at 10:10 h and be taken down at 13:30 h.
       </td>
     </tr>
     <tr>
-      <td>14:30</td>
+      <td>14:40</td>
       <td><a href="https://danielgehrig18.github.io/">Daniel Gehrig (Scaramuzza's Lab, University of Zurich)</a>.
         Efficient event processing with geometric deep learning. 
         <b><a href="https://youtu.be/V6uGnuznIg4"><span style="color:tomato;">Video</span></a></b>, 
@@ -189,7 +189,7 @@ All posters must go up at 10:10 h and be taken down at 13:30 h.
       </td>
     </tr>
     <tr>
-      <td>14:35</td>
+      <td>14:45</td>
       <td><a href="https://sites.google.com/view/guillermogallego/research/event-based-vision">Guillermo Gallego (TU Berlin, ECDF, SCIoI)</a>.
         Event-based Robot Vision for Autonomous Systems and Animal Observation. 
         <b><a href="https://youtu.be/31bfaACIotA"><span style="color:tomato;">Video</span></a></b>,
@@ -197,14 +197,14 @@ All posters must go up at 10:10 h and be taken down at 13:30 h.
       </td>
     </tr>
     <tr>
-      <td>14:40</td>
+      <td>14:50</td>
       <td><a href="https://m3ed.io/index.html">Kenneth Chaney and Fernando Cladera (Daniilidis' Lab, University of Pennsylvania)</a>.
         M3ED: Multi-robot, Multi-Sensor, Multi-Environment Event Dataset. 
         <b><a href="https://youtu.be/0krz1q6WCyA"><span style="color:tomato;">Video</span></a></b>
       </td>
     </tr>
     <tr>
-      <td>14:45</td>
+      <td>15:00</td>
       <td><a href="https://ci.idm.pku.edu.cn/">Boxin Shi (Peking University)</a>.
         NeuCAP: Neuromorphic Camera Aided Photography. 
         <b><a href="https://youtu.be/sHHMJdDLCKc"><span style="color:tomato;">Video</span></a></b>, 
@@ -212,7 +212,7 @@ All posters must go up at 10:10 h and be taken down at 13:30 h.
       </td>
     </tr>
     <tr>
-      <td bgcolor="LavenderBlush">15:10</td>
+      <td bgcolor="LavenderBlush">15:30</td>
       <td bgcolor="LavenderBlush">Coffee break</td>
     </tr>
     <tr>
